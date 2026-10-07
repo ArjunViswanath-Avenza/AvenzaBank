@@ -21,11 +21,11 @@
     "isForked": false
   },
   "fontSizeInPx": false,
-  "font_color": "575757ff",
-  "font_name": "Helvetica",
+  "font_color": "0f2233ff",
+  "font_name": "iphoneSystem",
   "font_size": 120,
   "font_style": "normal",
-  "font_weight": "normal",
+  "font_weight": "bold",
   "ipad": {
     "font_name": "System",
     "font_size": 120,
@@ -37,7 +37,7 @@
     "isForked": false
   },
   "isDefaultSkin": false,
-  "kuid": "sa27ad141bcf4dddbf9335594f452b79",
+  "kuid": "secfc18b873d439fa187d227127e8d7f",
   "tabrcandroid": {
     "font_name": "default",
     "font_size": 120,
