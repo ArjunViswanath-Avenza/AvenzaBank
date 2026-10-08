@@ -35,10 +35,9 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxFlow",
-        "flxL2",
-        "lbl2",
-        "lbl3"
+        "flxMain",
+        "flxL1",
+        "flxL2"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "240dp"
+        "value": "245dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s9b7bce84ac244dabc612ad800e57d55",
+    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
     "_text_": "Profile",
     "_top_": {
         "type": "string",
-        "value": "28dp"
+        "value": "31dp"
     },
     "_width_": {
         "type": "ref",

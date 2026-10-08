@@ -37,7 +37,8 @@
     "children": [
         "lblAccounts",
         "lblTransfer",
-        "lblProfile"
+        "lblProfile",
+        "flxNmaeRound"
     ],
     "clipbounds": false,
     "containerweight": 100,

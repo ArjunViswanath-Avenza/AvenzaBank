@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "10dp"
+        "value": "516dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s54792e87f8542c3b34f12d7a21b623e",
+    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
     "_text_": "Confirm",
     "_top_": {
         "type": "string",
-        "value": "29dp"
+        "value": "22dp"
     },
     "_width_": {
         "type": "ref",
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i4a2268a57154979a78930659ff82fce",
+    "kuid": "e06bda5f0d9349d39e9df007a49913ed",
     "name": "kony.ui.Label",
-    "parent": "flxFlow",
+    "parent": "flxMain",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

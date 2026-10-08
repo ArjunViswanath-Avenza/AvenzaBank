@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "16dp"
+        "value": "18dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "se12da1a9e7b4e6a8b0903f66bbc94e8",
+    "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
     "_text_": "Accounts",
     "_top_": {
         "type": "string",
-        "value": "28dp"
+        "value": "31dp"
     },
     "_width_": {
         "type": "ref",

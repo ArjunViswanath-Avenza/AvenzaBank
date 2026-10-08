@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "225dp"
+        "value": "705dp"
     },
     "_margin_": [
         0,
@@ -22,10 +22,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sf3f55e90a924650bca7e82f9ffbf72f",
+    "_skin_": "s34da7f84e074a969832f982708badbc",
     "_top_": {
         "type": "string",
-        "value": "25dp"
+        "value": "23dp"
     },
     "_width_": {
         "type": "string",
@@ -38,14 +38,14 @@
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxRound3",
+    "id": "flxNmaeRound",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d0e61fc07953440399ca778ae3d8fb21",
+    "kuid": "b0f8013ca5584280a9fcda977fe0cf04",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxFlow",
+    "parent": "flxContents",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

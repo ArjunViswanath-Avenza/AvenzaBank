@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "35dp"
+        "value": "86dp"
     },
     "_left_": {
         "type": "string",
-        "value": "130dp"
+        "value": "50dp"
     },
     "_margin_": [
         0,
@@ -22,30 +22,40 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sf4855ed35e94a1bb93bcadcf2f4b5e9",
+    "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
     "_top_": {
         "type": "string",
-        "value": "25dp"
+        "value": "121dp"
     },
     "_width_": {
         "type": "string",
-        "value": "35dp"
+        "value": "75.40%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxR1",
+        "lbl1",
+        "lblDetails",
+        "flxR2",
+        "flxR3",
+        "lbl2",
+        "lbl3",
+        "lblConfirm",
+        "lblDone"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxRound",
+    "id": "flxMain",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d5f864348bae42bb88516e20fb4575f6",
+    "kuid": "j198be9127e242a49ae5b482fd7cf5b9",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxFlow",
+    "parent": "TransFlow",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
