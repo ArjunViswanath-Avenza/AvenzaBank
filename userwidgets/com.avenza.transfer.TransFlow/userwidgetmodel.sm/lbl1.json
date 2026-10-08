@@ -5,10 +5,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "140dp"
-    },
     "_margin_": [
         1,
         1,
@@ -23,10 +19,6 @@
     ],
     "_skin_": "s647803293f940dbb4cf104c69459959",
     "_text_": "1",
-    "_top_": {
-        "type": "string",
-        "value": "20dp"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -39,6 +31,14 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lbl1",
@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "b72af3de32e248ea88d936e2b5a309f3",
     "name": "kony.ui.Label",
-    "parent": "flxMain",
+    "parent": "flxR1",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

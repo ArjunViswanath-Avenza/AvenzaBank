@@ -23,10 +23,6 @@
     ],
     "_skin_": "s725c5d9d7b94b1bb92915a796c3f701",
     "_text_": "Bank",
-    "_top_": {
-        "type": "string",
-        "value": "20dp"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -39,6 +35,10 @@
         }
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lblBank",

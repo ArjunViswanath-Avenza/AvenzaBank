@@ -23,10 +23,6 @@
     ],
     "_skin_": "s77dc93446fb437892166de5d8f60e94",
     "_text_": "Avenza",
-    "_top_": {
-        "type": "string",
-        "value": "20dp"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -39,6 +35,10 @@
         }
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lblAvenza",

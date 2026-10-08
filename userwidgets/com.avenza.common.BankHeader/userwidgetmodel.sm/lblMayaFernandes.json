@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "10dp"
+        "value": "540dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,7 @@
         0
     ],
     "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
-    "_text_": "MF",
-    "_top_": {
-        "type": "string",
-        "value": "31dp"
-    },
+    "_text_": "Maya Fernandes",
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -39,9 +35,13 @@
         }
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblSNAme",
+    "id": "lblMayaFernandes",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "acec636ba0e843bebec1f2d7ce7af69a",
+    "kuid": "ac834ab734034d56bc6e77e5b6d1fc4a",
     "name": "kony.ui.Label",
-    "parent": "flxTop",
+    "parent": "flxContents",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

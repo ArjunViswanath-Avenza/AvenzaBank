@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "86dp"
+        "value": "89dp"
     },
     "_left_": {
         "type": "string",
@@ -25,7 +25,7 @@
     "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
     "_top_": {
         "type": "string",
-        "value": "121dp"
+        "value": "118dp"
     },
     "_width_": {
         "type": "string",
@@ -36,12 +36,9 @@
     "canUpdateUI": true,
     "children": [
         "flxR1",
-        "lbl1",
         "lblDetails",
         "flxR2",
         "flxR3",
-        "lbl2",
-        "lbl3",
         "lblConfirm",
         "lblDone"
     ],

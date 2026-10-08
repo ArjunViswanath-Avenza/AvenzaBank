@@ -37,9 +37,7 @@
     "children": [
         "lblAvenza",
         "lblBank",
-        "flxContents",
-        "lblMayaName",
-        "lblSNAme"
+        "flxContents"
     ],
     "clipbounds": false,
     "containerweight": 100,
