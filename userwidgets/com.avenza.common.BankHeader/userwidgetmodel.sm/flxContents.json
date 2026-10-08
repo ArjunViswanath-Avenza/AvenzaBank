@@ -25,11 +25,11 @@
     "_skin_": "s18ac633c5434efd9af25ae9169b888a",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "20dp"
     },
     "_width_": {
         "type": "string",
-        "value": "79.80%"
+        "value": "93.70%"
     },
     "allboxes": [],
     "autogrowmode": 0,
