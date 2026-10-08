@@ -40,11 +40,7 @@
     "device": "desktopweb",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "globalUserWidgetRefs": [
-        "ue0eef080ffb424fa9fbab3f058ea5b1",
-        "u1899264db1f46feb3150c28b6f4e888",
-        "ube2ecd45fd541dba837d562576d1e0b"
-    ],
+    "globalUserWidgetRefs": [],
     "id": "userwidgetmodel",
     "info": null,
     "initdone": false,
@@ -64,6 +60,8 @@
     },
     "paddinginpixel": false,
     "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
