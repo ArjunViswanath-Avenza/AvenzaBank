@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "223dp"
     },
     "_margin_": [
         1,
@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "contentalignment": 4,
@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "e0180c88b3b147e19645af257c0f2306",
     "name": "kony.ui.Label",
-    "parent": "flxTop",
+    "parent": "flxContents",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

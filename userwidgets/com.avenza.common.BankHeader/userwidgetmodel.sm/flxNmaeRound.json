@@ -10,7 +10,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "705dp"
+        "value": "960dp"
     },
     "_margin_": [
         0,
@@ -27,6 +27,10 @@
     ],
     "_percent_": true,
     "_skin_": "s5b2a204415149148873029d59dea60d",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
     "_width_": {
         "type": "string",
         "value": "50dp"
