@@ -27,7 +27,7 @@
     "containerId": true,
     "containerweight": 100,
     "currentLocale": "default",
-    "device": "kiosk",
+    "device": "desktopweb",
     "displayorientation": 3,
     "enabledforidletimeout": false,
     "id": "SampleRowTemplate",
@@ -46,7 +46,7 @@
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "kiosk",
+    "platform": "desktopweb",
     "prevDevice": "desktopweb",
     "prevPlatform": "desktopweb",
     "retainscrollposition": false,

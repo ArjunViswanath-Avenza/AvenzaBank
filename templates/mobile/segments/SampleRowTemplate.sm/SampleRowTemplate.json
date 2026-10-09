@@ -26,7 +26,7 @@
     "containerId": true,
     "containerweight": 100,
     "currentLocale": "default",
-    "device": "iPhoneX",
+    "device": "iPhone13",
     "displayorientation": 3,
     "enabledforidletimeout": false,
     "id": "SampleRowTemplate",
@@ -45,7 +45,7 @@
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "spaip",
+    "platform": "iphone",
     "prevDevice": "iPhoneX",
     "prevPlatform": "iphone",
     "retainscrollposition": false,

@@ -25,7 +25,7 @@
   "font_name": "iphoneSystem",
   "font_size": 75,
   "font_style": "normal",
-  "font_weight": "400",
+  "font_weight": "bold",
   "ipad": {
     "font_name": "System",
     "font_size": 107,
@@ -37,7 +37,7 @@
     "isForked": false
   },
   "isDefaultSkin": false,
-  "kuid": "s456569a8be94341ba351883398719cf",
+  "kuid": "s31e7f1382ff429db0af8076cb559608",
   "tabrcandroid": {
     "font_name": "default",
     "font_size": 178,
