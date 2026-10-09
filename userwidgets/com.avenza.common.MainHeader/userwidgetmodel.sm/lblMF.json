@@ -17,7 +17,7 @@
         0,
         0
     ],
-    "_skin_": "s6b29a9ae55347f1bd4149d18e9e94dd",
+    "_skin_": "s456569a8be94341ba351883398719cf",
     "_text_": "MF",
     "_width_": {
         "type": "ref",
@@ -37,10 +37,10 @@
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "50.99%"
     },
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "id": "lblMF",
     "info": null,
     "ipad": {
@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "i5c473c234f94d80af5d4e7fab313998",
     "name": "kony.ui.Label",
-    "parent": "flxNmaeRound",
+    "parent": "flxNameRound",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

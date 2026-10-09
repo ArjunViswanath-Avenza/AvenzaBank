@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "185dp"
+        "value": "15dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Details",
     "_top_": {
         "type": "string",
-        "value": "22dp"
+        "value": "24dp"
     },
     "_width_": {
         "type": "ref",

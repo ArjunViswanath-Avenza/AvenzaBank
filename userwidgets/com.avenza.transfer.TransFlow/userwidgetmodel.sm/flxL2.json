@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "690dp"
+        "value": "20dp"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_skin_": "s8e1bf97b36c425ba35106913974a1a1",
     "_top_": {
         "type": "string",
-        "value": "155dp"
+        "value": "34dp"
     },
     "_width_": {
         "type": "string",
@@ -45,7 +45,7 @@
     "kuid": "a25f46a542cc4fa19eb5378c893e2a0d",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "TransFlow",
+    "parent": "flxMain",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
