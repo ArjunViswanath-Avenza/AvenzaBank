@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "1140dp"
+        "value": "1150dp"
     },
     "_margin_": [
         1,
@@ -21,8 +21,12 @@
         0,
         0
     ],
-    "_skin_": "secfc18b873d439fa187d227127e8d7f",
+    "_skin_": "s36af7fadd5544f59cd21c1b62dc71c5",
     "_text_": "Sign in ",
+    "_top_": {
+        "type": "string",
+        "value": "32dp"
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -37,7 +41,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "contentalignment": 4,

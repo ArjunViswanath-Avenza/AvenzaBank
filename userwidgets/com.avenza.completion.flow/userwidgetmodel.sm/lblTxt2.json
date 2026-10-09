@@ -22,10 +22,10 @@
         0
     ],
     "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
-    "_text_": "Label",
+    "_text_": "Step 4 of 7",
     "_top_": {
         "type": "string",
-        "value": "72dp"
+        "value": "15dp"
     },
     "_width_": {
         "type": "ref",

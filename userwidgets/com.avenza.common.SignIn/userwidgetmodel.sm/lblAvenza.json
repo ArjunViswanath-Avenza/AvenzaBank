@@ -23,6 +23,10 @@
     ],
     "_skin_": "s77dc93446fb437892166de5d8f60e94",
     "_text_": "Avenza",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"

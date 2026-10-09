@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "60dp"
+        "value": "72dp"
     },
     "_margin_": [
         6,
@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "s01575501bae4b55b991c903e35395e4",
+    "_skin_": "s06e5fb48c4a4adc967d37366493ed66",
     "_text_": "Back",
     "_top_": {
         "type": "string",
@@ -29,18 +29,18 @@
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "30%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sc7a8b5657bb40f88375b5211799b158",
+    "focusskin": "sc51d83a01164428b124a1dbbdcf494b",
     "id": "btnBack",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e33aa3dac8a44b63bbb90b95d4cbd085",
+    "kuid": "f0ceeb450591436c9f6c22a62538b360",
     "name": "kony.ui.Button",
     "parent": "flxActionbg",
     "pf": "userwidgetmodel",

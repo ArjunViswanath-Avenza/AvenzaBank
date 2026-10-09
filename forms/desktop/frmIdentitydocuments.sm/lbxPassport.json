@@ -1,0 +1,115 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "sb567beab904487c9f413d5c78c3c6ae",
+    "_top_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sae23eeb48874d9a83df5c77e65d3d79",
+    "groupcells": false,
+    "id": "lbxPassport",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h85052ba13f743c690dbbecc3997c76b",
+    "masterdata": [
+        [
+            "lb1",
+            "Passport"
+        ],
+        [
+            "lb2",
+            "Driving Licence"
+        ],
+        [
+            "lb3",
+            "National ID"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxDtlrow1",
+    "pf": "frmIdentitydocuments",
+    "responsiveData": {
+        "b1": {
+            "skin": "s8e09073a92047c7b5eb2f084105c084",
+            "top": {
+                "type": "string",
+                "value": "75dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "5dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
