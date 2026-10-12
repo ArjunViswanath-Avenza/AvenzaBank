@@ -32,14 +32,13 @@
         "value": "58.61%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "lblPersonalDetails",
         "lvlDes",
         "flxName",
         "flxDOB",
-        "flxEmail",
+        "flxMail",
         "flxMobile",
         "flxAddress"
     ],
@@ -55,6 +54,22 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxInfo",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "420dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "89.20%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

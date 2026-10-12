@@ -5,6 +5,10 @@
         "type": "ref",
         "value": "preferred"
     },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
     "_margin_": [
         1,
         1,
@@ -23,6 +27,10 @@
     },
     "_skin_": "sd6c709a84f144d6bd28756038b91e1a",
     "_text_": "42 Residency Road, Bengaluru 560025",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -61,7 +69,26 @@
     "pf": "frmProfile",
     "responsiveData": {
         "b2": {
-            "skin": "s9c588b44a2140ff867ccc2e08a4de45"
+            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c"
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "left": {
+                "type": "string",
+                "value": "0"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "safdb57f26bb402abd55d4041faae8d9",
+            "top": {
+                "type": "string",
+                "value": "8%"
+            }
         }
     },
     "retaincontentalignment": false,

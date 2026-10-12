@@ -49,6 +49,11 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxParent",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "isVisible": false
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

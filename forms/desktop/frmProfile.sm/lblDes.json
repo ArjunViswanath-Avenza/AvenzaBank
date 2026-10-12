@@ -59,6 +59,15 @@
     "name": "kony.ui.Label",
     "parent": "flxDes",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "isVisible": false,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

@@ -37,7 +37,8 @@
     "children": [
         "flxHeader",
         "flxProfile",
-        "flxInfo"
+        "flxInfo",
+        "flxUserName"
     ],
     "clipbounds": false,
     "containerweight": 100,

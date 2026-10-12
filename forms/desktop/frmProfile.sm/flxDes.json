@@ -38,6 +38,14 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "lblProfile",
         "lblDes"
@@ -54,6 +62,23 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxProfile",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "layoutType": 3,
+            "left": {
+                "type": "string",
+                "value": "6%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

@@ -61,7 +61,11 @@
     "pf": "frmProfile",
     "responsiveData": {
         "b2": {
-            "skin": "s05479f132dd4294ba1dcd349f2e3dba"
+            "skin": "s40b31c9cbf9487ab1dd1bf46e587626"
+        },
+        "b3": {
+            "skin": "s9262b76be504841ba87554ecac0a21f",
+            "text": "KYC"
         }
     },
     "retaincontentalignment": false,

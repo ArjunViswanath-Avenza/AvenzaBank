@@ -39,6 +39,14 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lblProfile",
@@ -61,7 +69,27 @@
     "pf": "frmProfile",
     "responsiveData": {
         "b2": {
-            "skin": "s64e265351554e188fe6bb106e5c7dcd"
+            "skin": "s89c79a6a6444f5ea951eab885b2df6d"
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "0"
+            },
+            "skin": "sd6c709a84f144d6bd28756038b91e1a",
+            "text": "Personal details",
+            "top": {
+                "type": "string",
+                "value": ""
+            }
         }
     },
     "retaincontentalignment": false,

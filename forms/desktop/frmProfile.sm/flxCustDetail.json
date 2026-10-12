@@ -32,7 +32,6 @@
         "value": "29.30%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "flxMF",
@@ -55,6 +54,27 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxInfo",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "154dp"
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "6.10%"
+            },
+            "top": {
+                "type": "string",
+                "value": "440dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "89.15%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

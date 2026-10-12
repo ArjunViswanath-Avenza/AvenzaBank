@@ -5,6 +5,10 @@
         "type": "ref",
         "value": "preferred"
     },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
     "_margin_": [
         1,
         1,
@@ -60,8 +64,22 @@
     "parent": "flxCustDetail",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s63fa6b7c6e948c8a0a4aeda33aded9d"
+        },
         "b2": {
-            "skin": "sf670f03652544ca8fc1116b225317c9"
+            "skin": "s007f41a3af34efe932653e11f76a8c0"
+        },
+        "b3": {
+            "isVisible": false
         }
     },
     "retaincontentalignment": false,

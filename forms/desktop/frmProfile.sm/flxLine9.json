@@ -25,28 +25,59 @@
     "_skin_": "s1e8c158e45a4a859817d34685dccf5e",
     "_top_": {
         "type": "string",
-        "value": "80dp"
+        "value": "6%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "90%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxLine3",
+    "id": "flxLine9",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cd4d0b2aa5d34b8a84270b9148a20a7c",
+    "kuid": "g462817ddefd43c5b85d3cd69c0ae304",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxEmail",
+    "parent": "flxBranch",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "isVisible": true,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "83%"
+            },
+            "width": {
+                "type": "string",
+                "value": "96%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

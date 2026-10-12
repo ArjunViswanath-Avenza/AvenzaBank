@@ -110,7 +110,7 @@
                 "b2": {
                     "left": {
                         "type": "string",
-                        "value": "28%"
+                        "value": "30%"
                     }
                 }
             }
@@ -128,7 +128,14 @@
                     "value": "4%"
                 }
             },
-            "responsiveData": {}
+            "responsiveData": {
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": "3%"
+                    }
+                }
+            }
         },
         "lblBank": {
             "__events__": {},
@@ -147,7 +154,7 @@
                 "b2": {
                     "left": {
                         "type": "string",
-                        "value": "18%"
+                        "value": "16%"
                     }
                 }
             }
@@ -199,7 +206,14 @@
                     "value": "48%"
                 }
             },
-            "responsiveData": {}
+            "responsiveData": {
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": "51%"
+                    }
+                }
+            }
         },
         "lblTransfer": {
             "__events__": {},
@@ -214,7 +228,14 @@
                     "value": "38%"
                 }
             },
-            "responsiveData": {}
+            "responsiveData": {
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": "40%"
+                    }
+                }
+            }
         }
     },
     "enablescrolling": true,

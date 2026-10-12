@@ -59,6 +59,11 @@
     "name": "kony.ui.Label",
     "parent": "flxPersonalInfo",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "isVisible": false
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

@@ -40,7 +40,8 @@
     },
     "children": [
         "lblCustID",
-        "lblId"
+        "lblId",
+        "flxLine8"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -54,6 +55,9 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxCustDetail",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {}
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

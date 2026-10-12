@@ -32,6 +32,10 @@
         "value": "45%"
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
@@ -44,6 +48,19 @@
     "name": "kony.ui.Button",
     "parent": "flxEdit",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "text": "Edit"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "wType": "Button",

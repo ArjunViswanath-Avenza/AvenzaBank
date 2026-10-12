@@ -5,6 +5,10 @@
         "type": "ref",
         "value": "preferred"
     },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
     "_margin_": [
         1,
         1,
@@ -22,7 +26,11 @@
         "value": "5%"
     },
     "_skin_": "sd6c709a84f144d6bd28756038b91e1a",
-    "_text_": "maya.fernandes@example.com",
+    "_text_": "+91 98450 11234",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -41,7 +49,7 @@
     },
     "containerweight": 100,
     "contentalignment": 6,
-    "id": "lblEmailid",
+    "id": "lblMailId",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,13 +63,37 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i02eb7bb5294484685a4be5522ec4097",
+    "kuid": "ce569d93284f4ad58fe4e412e462bcd6",
     "name": "kony.ui.Label",
-    "parent": "flxEmail",
+    "parent": "flxMail",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "text": "maya.fernandes@example.com"
+        },
         "b2": {
-            "skin": "s0715085a83646d9935a7f164d9f856a"
+            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c",
+            "text": "maya.fernandes@example.com"
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "left": {
+                "type": "string",
+                "value": "0"
+            },
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "safdb57f26bb402abd55d4041faae8d9",
+            "text": "maya.fernandes@example.com",
+            "top": {
+                "type": "string",
+                "value": "8%"
+            }
         }
     },
     "retaincontentalignment": false,
