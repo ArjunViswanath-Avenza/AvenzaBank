@@ -60,8 +60,8 @@
     "layouttype": 4,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": false,
-    "parent": "frmIdentitydocuments",
-    "pf": "frmIdentitydocuments",
+    "parent": "frmIdentity",
+    "pf": "frmIdentity",
     "responsiveData": {
         "b1": {
             "skin": "se13a48586784bed82e34e51ade27e47"
