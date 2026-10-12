@@ -55,6 +55,32 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxContent",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "70dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "16dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87.89%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87.50%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

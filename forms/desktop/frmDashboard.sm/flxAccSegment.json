@@ -29,10 +29,9 @@
     },
     "_width_": {
         "type": "string",
-        "value": "80.92%"
+        "value": "81.21%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "segAccDetails"
@@ -45,10 +44,42 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "bcfa0524668d4a9082af447b0c393e43",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxContent",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "416dp"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "70dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "87.66%"
+            }
+        },
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "413dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "37dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "89.06%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
