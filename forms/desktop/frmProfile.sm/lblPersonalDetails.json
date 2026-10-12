@@ -60,6 +60,16 @@
     "parent": "flxPersonalInfo",
     "pf": "frmProfile",
     "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "41dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "38dp"
+            }
+        },
         "b3": {
             "isVisible": false
         }

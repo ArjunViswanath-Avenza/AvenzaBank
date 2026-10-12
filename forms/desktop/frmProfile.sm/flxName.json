@@ -57,7 +57,15 @@
     "pf": "frmProfile",
     "responsiveData": {
         "b3": {
-            "layoutType": 4
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            }
         }
     },
     "retaincontentalignment": false,

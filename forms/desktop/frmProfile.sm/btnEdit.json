@@ -5,6 +5,10 @@
         "type": "string",
         "value": "50dp"
     },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
     "_margin_": [
         6,
         6,
@@ -32,6 +36,10 @@
         "value": "45%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "centery": {
         "type": "number",
         "value": ""
@@ -49,6 +57,24 @@
     "parent": "flxEdit",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
         "b3": {
             "centerY": {
                 "type": "string",

@@ -33,6 +33,10 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "flxNameLogo",
         "lblMayaFer",
@@ -58,6 +62,10 @@
             "isVisible": false
         },
         "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
             "height": {
                 "type": "string",
                 "value": "260dp"

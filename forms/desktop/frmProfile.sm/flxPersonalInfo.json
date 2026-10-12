@@ -33,6 +33,10 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "lblPersonalDetails",
         "lvlDes",
@@ -55,10 +59,30 @@
     "parent": "flxInfo",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "right": {
+                "type": "string",
+                "value": "3%"
+            },
+            "width": {
+                "type": "string",
+                "value": "60%"
+            }
+        },
+        "b2": {
+            "width": {
+                "type": "string",
+                "value": "59%"
+            }
+        },
         "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
             "height": {
                 "type": "string",
-                "value": "420dp"
+                "value": "428dp"
             },
             "top": {
                 "type": "string",

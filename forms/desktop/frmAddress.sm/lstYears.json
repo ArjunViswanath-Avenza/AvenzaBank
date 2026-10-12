@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s85b8bbc63ab463b81d809affd988d0e",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sae23eeb48874d9a83df5c77e65d3d79",
+    "groupcells": false,
+    "id": "lstYears",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gfe59c94ae424ef6bfe0fb590c9d257e",
+    "masterdata": [
+        [
+            "lb1",
+            "1 year"
+        ],
+        [
+            "lb2",
+            "2 year"
+        ],
+        [
+            "lb3",
+            "3 year"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxRow6",
+    "pf": "frmAddress",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

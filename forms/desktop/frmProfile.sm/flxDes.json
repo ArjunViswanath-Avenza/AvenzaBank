@@ -63,6 +63,16 @@
     "parent": "flxProfile",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "310px"
+            }
+        },
         "b3": {
             "centerX": {
                 "type": "string",

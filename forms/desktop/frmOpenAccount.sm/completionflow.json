@@ -1,0 +1,315 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "completionflow": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g91e0e7412934bd8ba887507881ef889",
+                "srcKUID": "d6ae2c099d524b24a0fc75babc109d85",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxFlow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dff3237a4dc3452cad5f8d54309d8f13",
+                "srcKUID": "e91ed7e30c4542c184a66e5b37651a03",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxGreenFlow": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e3c68d7a94c94b549654b0e797cdf6dc",
+                "srcKUID": "he9b732ee28f4829b4365555309addce",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxTraxck": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a936a2ced485454c85ae6c92f7ad6a1b",
+                "srcKUID": "a96c019dac4a4ffc8b62de635f4164b1",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "number",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "number",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "number",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "6dp"
+                }
+            },
+            "responsiveData": {
+                "b1": {
+                    "height": {
+                        "type": "string",
+                        "value": "6dp"
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "200dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "70.33%"
+                    }
+                },
+                "b2": {
+                    "height": {
+                        "type": "string",
+                        "value": "6dp"
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "110dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "75.27%"
+                    }
+                },
+                "b3": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "height": {
+                        "type": "string",
+                        "value": "-17dp"
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "20dp"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "70%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "92.33%"
+                    }
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "415dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "44dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "45.39%"
+                }
+            }
+        },
+        "lblGettingStared": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ac0cc7be401f487eb32dc40d3782548a",
+                "srcKUID": "ifdbf0fb686c4e6381d9135d68dc4ea7",
+                "wType": "Label"
+            },
+            "centerY": {
+                "Default": {
+                    "type": "number",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "330dp"
+                }
+            },
+            "responsiveData": {
+                "b1": {
+                    "left": {
+                        "type": "string",
+                        "value": "14.50%"
+                    }
+                },
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": "143dp"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "15dp"
+                    }
+                },
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "90dp"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "18dp"
+                    }
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "15dp"
+                }
+            }
+        },
+        "lblStep": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j9408138845e4cb6a60c3461e3cf2390",
+                "srcKUID": "d802b7d236f4410196c6a9711d985fb7",
+                "wType": "Label"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "855dp"
+                }
+            },
+            "responsiveData": {
+                "b1": {
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "15%"
+                    }
+                },
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "11%"
+                    },
+                    "top": {
+                        "type": "string",
+                        "value": "15dp"
+                    }
+                },
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": ""
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "3%"
+                    },
+                    "text": "1 to 7",
+                    "top": {
+                        "type": "string",
+                        "value": "18dp"
+                    }
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "number",
+                    "value": ""
+                }
+            },
+            "text": "Step 1 to 7",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "15dp"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "completionflow",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "g91e0e7412934bd8ba887507881ef889",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxFlow",
+    "pf": "frmOpenAccount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "d6ae2c099d524b24a0fc75babc109d85",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}
