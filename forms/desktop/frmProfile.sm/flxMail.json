@@ -32,7 +32,6 @@
         "value": "90%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -56,12 +55,17 @@
     "parent": "flxPersonalInfo",
     "pf": "frmProfile",
     "responsiveData": {
+        "b2": {},
         "b3": {
             "centerX": {
                 "type": "string",
-                "value": "51.73%"
+                "value": "50%"
             },
             "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
             "top": {
                 "type": "string",
                 "value": "0.00%"

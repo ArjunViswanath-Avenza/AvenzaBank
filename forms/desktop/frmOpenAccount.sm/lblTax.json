@@ -1,0 +1,90 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
+    "_text_": "Your tax number",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblTax",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "db1244ad67d94dcfb0311e8ea350dee5",
+    "name": "kony.ui.Label",
+    "parent": "flxInfo2",
+    "pf": "frmOpenAccount",
+    "responsiveData": {
+        "b2": {
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "55px"
+            },
+            "skin": "s9262b76be504841ba87554ecac0a21f",
+            "width": {
+                "type": "string",
+                "value": "75%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

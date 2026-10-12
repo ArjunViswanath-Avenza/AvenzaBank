@@ -52,6 +52,22 @@
     "parent": "flxCustDetail",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "top": {
+                "type": "string",
+                "value": "3%"
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "top": {
+                "type": "string",
+                "value": "4.00%"
+            }
+        },
         "b3": {
             "isVisible": false
         }

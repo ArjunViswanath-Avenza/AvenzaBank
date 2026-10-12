@@ -68,7 +68,7 @@
             "text": "Email"
         },
         "b2": {
-            "skin": "s40b31c9cbf9487ab1dd1bf46e587626",
+            "skin": "s9262b76be504841ba87554ecac0a21f",
             "text": "Email"
         },
         "b3": {
@@ -76,11 +76,11 @@
                 "type": "string",
                 "value": ""
             },
-            "skin": "s8915f96e32f41478267ab8f7e42ff52",
+            "skin": "s9262b76be504841ba87554ecac0a21f",
             "text": "Email",
             "top": {
                 "type": "string",
-                "value": "0"
+                "value": "9%"
             }
         }
     },

@@ -61,7 +61,7 @@
     "isvisible": true,
     "kuid": "ccaa5d53792e48d693761b959bbc70ed",
     "name": "kony.ui.Label",
-    "parent": "flxCustDetail",
+    "parent": "flxCustName",
     "pf": "frmProfile",
     "responsiveData": {
         "b1": {
@@ -76,7 +76,15 @@
             "skin": "s63fa6b7c6e948c8a0a4aeda33aded9d"
         },
         "b2": {
-            "skin": "s007f41a3af34efe932653e11f76a8c0"
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "skin": "s007f41a3af34efe932653e11f76a8c0",
+            "top": {
+                "type": "string",
+                "value": "5.00%"
+            }
         },
         "b3": {
             "isVisible": false

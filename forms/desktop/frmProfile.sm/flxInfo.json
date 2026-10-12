@@ -60,8 +60,8 @@
                 "value": "50.00%"
             },
             "height": {
-                "type": "ref",
-                "value": "preferred"
+                "type": "string",
+                "value": "615px"
             },
             "isVisible": true,
             "left": {

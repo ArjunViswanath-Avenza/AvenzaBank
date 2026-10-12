@@ -32,10 +32,10 @@
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 1,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "MainHeader"
+        "DashboardHeader"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -52,9 +52,10 @@
     "responsiveData": {
         "b1": {
             "height": {
-                "type": "ref",
-                "value": "preferred"
-            }
+                "type": "string",
+                "value": "90dp"
+            },
+            "skin": "sc43b73b3ea140218e04bfabf4271907"
         },
         "b2": {
             "height": {

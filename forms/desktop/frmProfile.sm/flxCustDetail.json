@@ -33,10 +33,13 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "flxMF",
-        "lblMayaFernandes",
-        "lblCustDes",
+        "flxCustName",
         "flxLine6",
         "flxCustId",
         "flxBranch",
@@ -55,10 +58,38 @@
     "parent": "flxInfo",
     "pf": "frmProfile",
     "responsiveData": {
-        "b3": {
+        "b1": {
             "height": {
                 "type": "string",
-                "value": "154dp"
+                "value": "400dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "4%"
+            },
+            "width": {
+                "type": "string",
+                "value": "30%"
+            }
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "400dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "30%"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "156dp"
             },
             "isVisible": true,
             "left": {
@@ -67,11 +98,11 @@
             },
             "top": {
                 "type": "string",
-                "value": "440dp"
+                "value": "450dp"
             },
             "width": {
                 "type": "string",
-                "value": "89.15%"
+                "value": "89.20%"
             }
         }
     },

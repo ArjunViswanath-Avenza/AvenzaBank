@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "415dp"
+    },
+    "_skin_": "se590c09220e4e5da7bf6f72d6887a41",
+    "_top_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45.39%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxGreenFlow"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxTraxck",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a96c019dac4a4ffc8b62de635f4164b1",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxFlow",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -61,7 +61,15 @@
     "pf": "frmProfile",
     "responsiveData": {
         "b2": {
-            "skin": "s411785ec2b9426a8b7688c590993501"
+            "left": {
+                "type": "string",
+                "value": "41dp"
+            },
+            "skin": "s9262b76be504841ba87554ecac0a21f",
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            }
         },
         "b3": {
             "isVisible": false

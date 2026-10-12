@@ -59,6 +59,9 @@
     "name": "kony.ui.Label",
     "parent": "flxMF",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b2": {}
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

@@ -32,7 +32,6 @@
         "value": "90%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -56,8 +55,30 @@
     "parent": "flxPersonalInfo",
     "pf": "frmProfile",
     "responsiveData": {
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "90dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "-10dp"
+            }
+        },
         "b3": {
-            "layoutType": 4
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "layoutType": 4,
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
         }
     },
     "retaincontentalignment": false,
