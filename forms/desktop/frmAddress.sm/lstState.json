@@ -1,0 +1,111 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "78dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "sa8dea55a7164584b4dd968d3e671fff",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sae23eeb48874d9a83df5c77e65d3d79",
+    "groupcells": false,
+    "id": "lstState",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f9aa60bc3af14c04bde3c636b40d90f9",
+    "masterdata": [
+        [
+            "lb1",
+            "TamilNadu"
+        ],
+        [
+            "lb2",
+            "Kerala"
+        ],
+        [
+            "lb3",
+            "Pondicherry"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "FlxBoxalighn",
+    "pf": "frmAddress",
+    "responsiveData": {
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": "50.00%"
+            },
+            "left": {
+                "type": "string",
+                "value": "70dp"
+            },
+            "padding": [
+                3,
+                0,
+                0,
+                0
+            ],
+            "right": {
+                "type": "string",
+                "value": ""
+            },
+            "width": {
+                "type": "string",
+                "value": "40%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
