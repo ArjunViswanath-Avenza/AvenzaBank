@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "290dp"
+        "value": "80dp"
     },
     "_left_": {
         "type": "string",
@@ -25,11 +25,11 @@
     "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
     "_top_": {
         "type": "string",
-        "value": "70dp"
+        "value": "440dp"
     },
     "_width_": {
         "type": "string",
-        "value": "87%"
+        "value": "84.22%"
     },
     "allboxes": [],
     "canUpdateUI": true,
@@ -38,42 +38,53 @@
         "value": ""
     },
     "children": [
-        "lblBanking",
-        "lblInfo1"
+        "lblNewtoBank",
+        "lblOpenAcc"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxSidecontent",
+    "id": "flxOpenNwAcc",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h27c74a37a1c4cfa8ac8e0e75b2c9acc",
+    "kuid": "hd9d880cfd33443cb07a8a7287b4f2fe",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxLeftPannel",
-    "pf": "frmLoginMain",
+    "parent": "flxCredentails",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b1": {
+        "b2": {
             "centerX": {
                 "type": "string",
-                "value": "50.00%"
+                "value": "50%"
             },
-            "left": {
-                "type": "string",
-                "value": ""
-            },
-            "top": {
-                "type": "string",
-                "value": "70dp"
-            }
-        },
-        "b2": {
             "height": {
                 "type": "ref",
                 "value": "preferred"
             },
-            "layoutType": 4
+            "width": {
+                "type": "string",
+                "value": "85%"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "18.52%"
+            },
+            "top": {
+                "type": "string",
+                "value": "434dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "95.79%"
+            }
         }
     },
     "retaincontentalignment": false,

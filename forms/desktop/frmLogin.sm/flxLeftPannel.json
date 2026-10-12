@@ -22,34 +22,41 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
+    "_skin_": "s5c170c435234db1acd96030e665a24d",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "35%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxLeftPannel",
-        "flxRight"
+        "flxHeader",
+        "flxSidecontent",
+        "flxFooter"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxMain",
+    "id": "flxLeftPannel",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "be1014d6a70845ddbd4d36e76733f415",
-    "layouttype": 2,
+    "kuid": "eb0f6c6837834f4491d1a607de6a6cb9",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmLoginMain",
-    "pf": "frmLoginMain",
+    "parent": "flxMain",
+    "pf": "frmLogin",
+    "responsiveData": {
+        "b1": {},
+        "b3": {
+            "isVisible": false
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

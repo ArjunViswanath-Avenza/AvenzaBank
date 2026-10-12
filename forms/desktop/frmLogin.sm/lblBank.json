@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "80dp"
+        "value": "138dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
-    "_text_": "New to Avenza Bank?",
+    "_skin_": "sef21956edcb4c7ca51ad843a3027ac3",
+    "_text_": "Bank",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "50dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,13 +39,9 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "number",
-        "value": ""
-    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblNewtoBank",
+    "id": "lblBank",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,38 +55,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ebed21f823104b5bb1ead56c43fe7a6c",
-    "minwidth": {
-        "type": "number",
-        "value": ""
-    },
+    "kuid": "c2f9e85f656e4fdd8231c204a9dca968",
     "name": "kony.ui.Label",
-    "parent": "flxOpenNwAcc",
-    "pf": "frmLoginMain",
-    "responsiveData": {
-        "b2": {
-            "skin": "s0ed6f3615aa440b958fb37fd4564df0"
-        },
-        "b3": {
-            "centerX": {
-                "type": "string",
-                "value": "50%"
-            },
-            "left": {
-                "type": "string",
-                "value": "40dp"
-            },
-            "minWidth": {
-                "type": "string",
-                "value": ""
-            },
-            "skin": "s358c3e83c90414ca9d857f87dc1a7c1",
-            "width": {
-                "type": "string",
-                "value": "35%"
-            }
-        }
-    },
+    "parent": "flxHeader",
+    "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

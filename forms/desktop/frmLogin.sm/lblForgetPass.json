@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "335dp"
     },
     "_margin_": [
         1,
@@ -21,8 +21,12 @@
         0,
         0
     ],
-    "_skin_": "s9ec0f34ba8348f0a2a60728db730c88",
-    "_text_": "Password",
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sf89769263494ed1953e1b3660e9c51f",
+    "_text_": "Forget password?",
     "_top_": {
         "type": "string",
         "value": "137dp"
@@ -39,13 +43,13 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
+    "centery": {
         "type": "number",
         "value": ""
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblPassword",
+    "id": "lblForgetPass",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,28 +63,53 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "eef3e425b6c146d891a683f188f5ab8b",
+    "kuid": "aa3a5b48cc7449b99411861c7a7e1893",
     "name": "kony.ui.Label",
     "parent": "flxCredentails",
-    "pf": "frmLoginMain",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b3": {
-            "centerX": {
+        "b2": {
+            "contentAlignment": 6,
+            "left": {
                 "type": "string",
-                "value": "25.51%"
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "skin": "s30c5c4c47054a7cb0fda259da242e03",
+            "width": {
+                "type": "string",
+                "value": "200px"
+            }
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 4,
+            "height": {
+                "type": "string",
+                "value": "10.84%"
             },
             "left": {
                 "type": "string",
-                "value": "0dp"
+                "value": ""
             },
-            "skin": "s9ec0f34ba8348f0a2a60728db730c88",
+            "right": {
+                "type": "string",
+                "value": "5dp"
+            },
+            "skin": "s2b16e05d5a942c5b8d10ff856b3db19",
             "top": {
                 "type": "string",
-                "value": "137dp"
+                "value": "118dp"
             },
             "width": {
                 "type": "string",
-                "value": "50%"
+                "value": "30%"
             }
         }
     },

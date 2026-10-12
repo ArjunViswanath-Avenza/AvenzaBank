@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "40dp"
+        "value": "0"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
-    "_text_": "Keep me signed in on this device",
+    "_skin_": "s9ec0f34ba8348f0a2a60728db730c88",
+    "_text_": "User Id ",
     "_top_": {
         "type": "string",
-        "value": "252dp"
+        "value": "14dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,12 +40,12 @@
     },
     "canUpdateUI": true,
     "centerx": {
-        "type": "string",
-        "value": "50%"
+        "type": "number",
+        "value": ""
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblSignInfo",
+    "id": "lblUserId",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,11 +59,14 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e08a08adaace4e5689fc4a4306c3228a",
+    "kuid": "h6a6c29fd04140c1bc33c7c13b4b0e3a",
     "name": "kony.ui.Label",
     "parent": "flxCredentails",
-    "pf": "frmLoginMain",
+    "pf": "frmLogin",
     "responsiveData": {
+        "b1": {
+            "text": "User Id "
+        },
         "b3": {
             "centerX": {
                 "type": "string",
@@ -71,16 +74,12 @@
             },
             "left": {
                 "type": "string",
-                "value": "45dp"
+                "value": "5dp"
             },
-            "skin": "s8d4bfcdbb1a4329bf42006fee738d39",
-            "top": {
-                "type": "string",
-                "value": "253dp"
-            },
+            "skin": "s9ec0f34ba8348f0a2a60728db730c88",
             "width": {
                 "type": "string",
-                "value": "55%"
+                "value": "30%"
             }
         }
     },

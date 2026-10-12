@@ -47,11 +47,11 @@
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "b37d4cafa3d24872ba1fd2901058436e",
+    "kuid": "a6bdf0f02f8b4a858a160d904a38af9b",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "flxCredentails",
-    "pf": "frmLoginMain",
+    "pf": "frmLogin",
     "placeholderskin": "s015dba0ba8c42e9aa1798249ea3fc39",
     "responsiveData": {
         "b3": {

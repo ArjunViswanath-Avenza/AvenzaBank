@@ -40,10 +40,10 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b3bd41ba85c04efcbff64c471903ac57",
+    "kuid": "c9a0a7b9d8fa4a1b8e7fa01def1ce982",
     "name": "kony.ui.Button",
     "parent": "flxCredentails",
-    "pf": "frmLoginMain",
+    "pf": "frmLogin",
     "responsiveData": {
         "b3": {
             "width": {

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "260dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,15 @@
         0,
         0
     ],
-    "_skin_": "s9ec0f34ba8348f0a2a60728db730c88",
-    "_text_": "User Id ",
+    "_right_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_skin_": "sf89769263494ed1953e1b3660e9c51f",
+    "_text_": "Open an account",
     "_top_": {
         "type": "string",
-        "value": "14dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -45,7 +49,7 @@
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblUserId",
+    "id": "lblOpenAcc",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,24 +63,36 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j97a8f3ff18c48c987a6be6ae00e064f",
+    "kuid": "j3c144b196c94f308b5fefb5b45f8eb5",
     "name": "kony.ui.Label",
-    "parent": "flxCredentails",
-    "pf": "frmLoginMain",
+    "parent": "flxOpenNwAcc",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b1": {
-            "text": "User Id "
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "275dp"
+            },
+            "skin": "s4efa5e3feb349ddb2a3d247369eadbd"
         },
         "b3": {
             "centerX": {
                 "type": "string",
-                "value": ""
+                "value": "47.31%"
             },
             "left": {
                 "type": "string",
-                "value": "5dp"
+                "value": ""
             },
-            "skin": "s9ec0f34ba8348f0a2a60728db730c88",
+            "right": {
+                "type": "string",
+                "value": "120dp"
+            },
+            "skin": "s275f04fb97d4567ae3890514dfea268",
+            "top": {
+                "type": "string",
+                "value": "60dp"
+            },
             "width": {
                 "type": "string",
                 "value": "30%"

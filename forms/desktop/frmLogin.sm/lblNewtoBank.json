@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "40dp"
+        "value": "80dp"
     },
     "_margin_": [
         1,
@@ -21,15 +21,15 @@
         0,
         0
     ],
-    "_skin_": "s5d88cdd8e204be58a71bf756b8615b5",
-    "_text_": "Banking that stays out of your way.",
+    "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
+    "_text_": "New to Avenza Bank?",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "60%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,12 +40,12 @@
     },
     "canUpdateUI": true,
     "centerx": {
-        "type": "string",
-        "value": "50%"
+        "type": "number",
+        "value": ""
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblBanking",
+    "id": "lblNewtoBank",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,21 +59,35 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a8169f2a557b417498eafa1b7e845e37",
+    "kuid": "d45c1d0e815c470594df3de2c9976f36",
+    "minwidth": {
+        "type": "number",
+        "value": ""
+    },
     "name": "kony.ui.Label",
-    "parent": "flxSidecontent",
-    "pf": "frmLoginMain",
+    "parent": "flxOpenNwAcc",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b1": {
+        "b2": {
+            "skin": "s0ed6f3615aa440b958fb37fd4564df0"
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s358c3e83c90414ca9d857f87dc1a7c1",
             "width": {
                 "type": "string",
-                "value": "81.63%"
-            }
-        },
-        "b2": {
-            "top": {
-                "type": "string",
-                "value": "0dp"
+                "value": "35%"
             }
         }
     },

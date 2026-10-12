@@ -1,8 +1,12 @@
 {
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_height_": {
         "type": "string",
-        "value": "120dp"
+        "value": "510dp"
     },
     "_left_": {
         "type": "string",
@@ -23,13 +27,9 @@
     ],
     "_percent_": true,
     "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
-        "value": "77.96%"
+        "value": "96.60%"
     },
     "allboxes": [],
     "canUpdateUI": true,
@@ -38,48 +38,55 @@
         "value": ""
     },
     "children": [
-        "lblSignin",
-        "lblSingninInfo"
+        "lblUserId",
+        "tbxUserId",
+        "lblPassword",
+        "tbxPassword",
+        "lblForgetPass",
+        "flxRem",
+        "lblSignInfo",
+        "btnSignIn",
+        "flxOpenNwAcc"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxSignIn",
+    "id": "flxCredentails",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a664b166f87c49ed8efd21c59b590909",
+    "kuid": "e730a7106b73409ca025a6d51fec916d",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "flxCentre",
-    "pf": "frmLoginMain",
+    "pf": "frmLogin",
     "responsiveData": {
         "b2": {
             "centerX": {
                 "type": "string",
-                "value": ""
+                "value": "50%"
             },
-            "left": {
-                "type": "string",
-                "value": "10dp"
+            "height": {
+                "type": "ref",
+                "value": "preferred"
             },
             "width": {
                 "type": "string",
-                "value": "77%"
+                "value": "96%"
             }
         },
         "b3": {
-            "centerX": {
+            "bottom": {
                 "type": "string",
-                "value": "42%"
+                "value": "-390%"
             },
             "height": {
                 "type": "string",
-                "value": "20%"
+                "value": "80.00%"
             },
             "width": {
                 "type": "string",
-                "value": "77%"
+                "value": "96%"
             }
         }
     },

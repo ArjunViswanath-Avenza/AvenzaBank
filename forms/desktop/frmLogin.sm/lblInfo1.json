@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "335dp"
+        "value": "84dp"
     },
     "_margin_": [
         1,
@@ -21,19 +21,15 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "0dp"
-    },
-    "_skin_": "sf89769263494ed1953e1b3660e9c51f",
-    "_text_": "Forget password?",
+    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
+    "_text_": "Accounts, transfers and statements in one place. Secured with 256-bit encryption.",
     "_top_": {
         "type": "string",
-        "value": "137dp"
+        "value": "200dp"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "76.19%"
     },
     "_wrapping_": 2,
     "android": {
@@ -43,13 +39,13 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "number",
         "value": ""
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblForgetPass",
+    "id": "lblInfo1",
     "info": null,
     "ipad": {
         "psp": {
@@ -63,53 +59,42 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "g83e8af4fe6547c983890991807b13a0",
+    "kuid": "h3510fad491a40b19a3fcac0a29682b9",
+    "minwidth": {
+        "type": "string",
+        "value": "50%"
+    },
     "name": "kony.ui.Label",
-    "parent": "flxCredentails",
-    "pf": "frmLoginMain",
+    "parent": "flxSidecontent",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b2": {
-            "contentAlignment": 6,
+        "b1": {
             "left": {
                 "type": "string",
-                "value": ""
+                "value": "38dp"
             },
-            "right": {
-                "type": "string",
-                "value": "10dp"
-            },
-            "skin": "s30c5c4c47054a7cb0fda259da242e03",
             "width": {
                 "type": "string",
-                "value": "200px"
+                "value": "81.72%"
             }
         },
-        "b3": {
-            "centerY": {
+        "b2": {
+            "centerX": {
                 "type": "string",
-                "value": ""
+                "value": "50%"
             },
-            "contentAlignment": 4,
             "height": {
-                "type": "string",
-                "value": "10.84%"
+                "type": "ref",
+                "value": "preferred"
             },
-            "left": {
-                "type": "string",
-                "value": ""
-            },
-            "right": {
-                "type": "string",
-                "value": "5dp"
-            },
-            "skin": "s2b16e05d5a942c5b8d10ff856b3db19",
+            "skin": "s90adfbdffd8468f8ffaf61aee70495b",
             "top": {
                 "type": "string",
-                "value": "118dp"
+                "value": "20dp"
             },
             "width": {
                 "type": "string",
-                "value": "30%"
+                "value": "58%"
             }
         }
     },

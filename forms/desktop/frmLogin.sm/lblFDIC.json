@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "40dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
-    "_text_": "Use the credentials issued by your branch.",
+    "_skin_": "sbc0ea51a52643f5a14bf841f8276c29",
+    "_text_": "FDIC insured   24/7 support    v2.4.0",
     "_top_": {
         "type": "string",
-        "value": "95dp"
+        "value": "17dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,9 +39,13 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblSingninInfo",
+    "id": "lblFDIC",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,13 +59,40 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a5ad3b99ffe54567953cba451eda22ae",
+    "kuid": "ec4d479d172a4e4e81d850c2160c73d0",
+    "minheight": {
+        "type": "string",
+        "value": ""
+    },
     "name": "kony.ui.Label",
-    "parent": "flxSignIn",
-    "pf": "frmLoginMain",
+    "parent": "flxFooter",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b3": {
-            "skin": "s2e7e52ab85b401da8f763a5dae29ce1"
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "45%"
+            },
+            "desktopweb": {},
+            "left": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "minHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "17dp"
+            }
+        },
+        "b2": {
+            "skin": "s85047d0cf3b4d749401bac3d36439f8",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
         }
     },
     "retaincontentalignment": false,

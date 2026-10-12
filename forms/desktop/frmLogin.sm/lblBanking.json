@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "260dp"
+        "value": "40dp"
     },
     "_margin_": [
         1,
@@ -21,19 +21,15 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "30dp"
-    },
-    "_skin_": "sf89769263494ed1953e1b3660e9c51f",
-    "_text_": "Open an account",
+    "_skin_": "s5d88cdd8e204be58a71bf756b8615b5",
+    "_text_": "Banking that stays out of your way.",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "60%"
     },
     "_wrapping_": 2,
     "android": {
@@ -44,12 +40,12 @@
     },
     "canUpdateUI": true,
     "centerx": {
-        "type": "number",
-        "value": ""
+        "type": "string",
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblOpenAcc",
+    "id": "lblBanking",
     "info": null,
     "ipad": {
         "psp": {
@@ -63,39 +59,21 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c60e6d1e49db49eb8ea8ce2e9065afee",
+    "kuid": "je0342e512c04e6992fff41fbff8e45c",
     "name": "kony.ui.Label",
-    "parent": "flxOpenNwAcc",
-    "pf": "frmLoginMain",
+    "parent": "flxSidecontent",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b2": {
-            "left": {
-                "type": "string",
-                "value": "275dp"
-            },
-            "skin": "s4efa5e3feb349ddb2a3d247369eadbd"
-        },
-        "b3": {
-            "centerX": {
-                "type": "string",
-                "value": "47.31%"
-            },
-            "left": {
-                "type": "string",
-                "value": ""
-            },
-            "right": {
-                "type": "string",
-                "value": "120dp"
-            },
-            "skin": "s275f04fb97d4567ae3890514dfea268",
-            "top": {
-                "type": "string",
-                "value": "60dp"
-            },
+        "b1": {
             "width": {
                 "type": "string",
-                "value": "30%"
+                "value": "81.63%"
+            }
+        },
+        "b2": {
+            "top": {
+                "type": "string",
+                "value": "0dp"
             }
         }
     },

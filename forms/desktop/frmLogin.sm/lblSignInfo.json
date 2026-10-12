@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "84dp"
+        "value": "40dp"
     },
     "_margin_": [
         1,
@@ -21,15 +21,15 @@
         0,
         0
     ],
-    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
-    "_text_": "Accounts, transfers and statements in one place. Secured with 256-bit encryption.",
+    "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
+    "_text_": "Keep me signed in on this device",
     "_top_": {
         "type": "string",
-        "value": "200dp"
+        "value": "252dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "76.19%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,12 +40,12 @@
     },
     "canUpdateUI": true,
     "centerx": {
-        "type": "number",
-        "value": ""
+        "type": "string",
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblInfo1",
+    "id": "lblSignInfo",
     "info": null,
     "ipad": {
         "psp": {
@@ -59,42 +59,28 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e3b16277449c4e94be9e4293a277dfdf",
-    "minwidth": {
-        "type": "string",
-        "value": "50%"
-    },
+    "kuid": "ha383bee88f94ebbb5ed593a26a920e8",
     "name": "kony.ui.Label",
-    "parent": "flxSidecontent",
-    "pf": "frmLoginMain",
+    "parent": "flxCredentails",
+    "pf": "frmLogin",
     "responsiveData": {
-        "b1": {
-            "left": {
-                "type": "string",
-                "value": "38dp"
-            },
-            "width": {
-                "type": "string",
-                "value": "81.72%"
-            }
-        },
-        "b2": {
+        "b3": {
             "centerX": {
                 "type": "string",
-                "value": "50%"
+                "value": ""
             },
-            "height": {
-                "type": "ref",
-                "value": "preferred"
+            "left": {
+                "type": "string",
+                "value": "45dp"
             },
-            "skin": "s90adfbdffd8468f8ffaf61aee70495b",
+            "skin": "s8d4bfcdbb1a4329bf42006fee738d39",
             "top": {
                 "type": "string",
-                "value": "20dp"
+                "value": "253dp"
             },
             "width": {
                 "type": "string",
-                "value": "58%"
+                "value": "55%"
             }
         }
     },
