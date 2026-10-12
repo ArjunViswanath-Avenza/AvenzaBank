@@ -1,0 +1,121 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "335dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sf89769263494ed1953e1b3660e9c51f",
+    "_text_": "Forget password?",
+    "_top_": {
+        "type": "string",
+        "value": "137dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblForgetPass",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g83e8af4fe6547c983890991807b13a0",
+    "name": "kony.ui.Label",
+    "parent": "flxCredentails",
+    "pf": "frmLoginMain",
+    "responsiveData": {
+        "b2": {
+            "contentAlignment": 6,
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "skin": "s30c5c4c47054a7cb0fda259da242e03",
+            "width": {
+                "type": "string",
+                "value": "200px"
+            }
+        },
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 4,
+            "height": {
+                "type": "string",
+                "value": "10.84%"
+            },
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "5dp"
+            },
+            "skin": "s2b16e05d5a942c5b8d10ff856b3db19",
+            "top": {
+                "type": "string",
+                "value": "118dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "30%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa27ad141bcf4dddbf9335594f452b79",
+    "_text_": "New to Avenza Bank?",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblNewtoBank",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ebed21f823104b5bb1ead56c43fe7a6c",
+    "minwidth": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.Label",
+    "parent": "flxOpenNwAcc",
+    "pf": "frmLoginMain",
+    "responsiveData": {
+        "b2": {
+            "skin": "s0ed6f3615aa440b958fb37fd4564df0"
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "left": {
+                "type": "string",
+                "value": "40dp"
+            },
+            "minWidth": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s358c3e83c90414ca9d857f87dc1a7c1",
+            "width": {
+                "type": "string",
+                "value": "35%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

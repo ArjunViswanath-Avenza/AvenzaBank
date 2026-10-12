@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8125c75228c4db7bcc3d3a111329aa2",
+    "_text_": "Photos must show all four corners, with no glare. JPG or PNG, up to 10 MB each.",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblTxt2",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fac546fbc3fd498a9665ed92a7b3562d",
+    "name": "kony.ui.Label",
+    "parent": "flxTextbg",
+    "pf": "frmIdentitydocuments",
+    "responsiveData": {
+        "b2": {
+            "text": "Photos must show all four corners, with no glare. "
+        },
+        "b3": {
+            "skin": "s29d9d3cf0414569b5ea1b9c0e002295",
+            "text": "Show all four corners, Up to 10 MB each.",
+            "top": {
+                "type": "string",
+                "value": "50dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

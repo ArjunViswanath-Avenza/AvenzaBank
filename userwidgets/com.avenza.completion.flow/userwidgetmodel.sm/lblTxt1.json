@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "secfc18b873d439fa187d227127e8d7f",
-    "_text_": "Label",
+    "_skin_": "s5716565157e4423a660e03897d1ee1b",
+    "_text_": "Identity documents",
     "_top_": {
         "type": "string",
-        "value": "72dp"
+        "value": "15dp"
     },
     "_width_": {
         "type": "ref",
