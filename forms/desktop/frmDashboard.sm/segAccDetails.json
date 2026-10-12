@@ -5,147 +5,137 @@
         {
             "imgHome": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home_icon_silhouette.png"
+            },
+            "imgNext": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right__1_.png"
             },
             "lblAccNo": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "123456XXXX"
             },
+            "lblPriSav": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Primary Savings"
+            },
+            "lblSavAmt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$12,450.75"
+            },
             "lblSavingsAcc": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Saving Account"
             }
         },
         {
             "imgHome": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home_icon_silhouette.png"
+            },
+            "imgNext": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right__1_.png"
             },
             "lblAccNo": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
+                "text": "778812XXXX"
+            },
+            "lblPriSav": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Business Current"
+            },
+            "lblSavAmt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$48,210.00"
             },
             "lblSavingsAcc": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Current ACcount"
             }
         },
         {
             "imgHome": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home_icon_silhouette.png"
+            },
+            "imgNext": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right__1_.png"
             },
             "lblAccNo": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
+                "text": "990045XXXX"
+            },
+            "lblPriSav": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payroll"
+            },
+            "lblSavAmt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$6,320.40"
             },
             "lblSavingsAcc": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Salary Account"
             }
         },
         {
             "imgHome": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home_icon_silhouette.png"
+            },
+            "imgNext": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right__1_.png"
             },
             "lblAccNo": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
+                "text": "556677XXXX"
+            },
+            "lblPriSav": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FD 2026"
+            },
+            "lblSavAmt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$100,000.00"
             },
             "lblSavingsAcc": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Fixed Deposit"
             }
         },
         {
             "imgHome": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "home_icon_silhouette.png"
             },
-            "lblAccNo": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
-            },
-            "lblSavingsAcc": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
-            }
-        },
-        {
-            "imgHome": {
+            "imgNext": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
+                "src": "right__1_.png"
             },
             "lblAccNo": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
+                "text": "889900XXXX"
+            },
+            "lblPriSav": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Platinum card"
+            },
+            "lblSavAmt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-$2,310.65"
             },
             "lblSavingsAcc": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
-            }
-        },
-        {
-            "imgHome": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
-            },
-            "lblAccNo": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
-            },
-            "lblSavingsAcc": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
-            }
-        },
-        {
-            "imgHome": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
-            },
-            "lblAccNo": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
-            },
-            "lblSavingsAcc": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
-            }
-        },
-        {
-            "imgHome": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
-            },
-            "lblAccNo": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
-            },
-            "lblSavingsAcc": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
-            }
-        },
-        {
-            "imgHome": {
-                "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "imagedrag.png"
-            },
-            "lblAccNo": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "123456XXXX"
-            },
-            "lblSavingsAcc": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
+                "text": "Credit Card"
             }
         }
     ],
     "_height_": {
         "type": "string",
-        "value": "240dp"
+        "value": "410dp"
     },
     "_indicator_": "none",
     "_left_": {
@@ -167,16 +157,16 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "40dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "100.17%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "09",
+    "counter": "04",
     "focusedindex": null,
     "focuseditem": null,
     "groupcells": false,
@@ -206,24 +196,331 @@
     },
     "parent": "flxAccSegment",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b1": {},
+        "b2": {
+            "data": [
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Primary Savings"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "123456XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Business Current"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Current Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "778812XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Payroll"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Salary Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "990045XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Fd 2026"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Fixed Deposit"
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "556677XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Platinum Card"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Credit Card"
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "889900XXXX"
+                    }
+                }
+            ],
+            "isVisible": true,
+            "rowTemplate": "j97adace75e440a6bde4e1de431d1bc4",
+            "sectionHeaderTemplate": null,
+            "widgetDataMap": {
+                "flxAccInfo": "flxAccInfo",
+                "flxAmt": "flxAmt",
+                "flxBg": "flxBg",
+                "flxHome": "flxHome",
+                "flxHomeBg": "flxHomeBg",
+                "flxNext": "flxNext",
+                "imgHome": "imgHome",
+                "imgNext": "imgNext",
+                "lblACtAmt": "lblACtAmt",
+                "lblPrimSavings": "lblPrimSavings",
+                "lblSavAcc": "lblSavAcc",
+                "lblSavAmt": "lblSavAmt"
+            }
+        },
+        "b3": {
+            "data": [
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Primary Savings"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "123456XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Primary Savings"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "123456XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Primary Savings"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "123456XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Primary Savings"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "123456XXXX"
+                    }
+                },
+                {
+                    "imgHome": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "home_icon_silhouette.png"
+                    },
+                    "imgNext": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right__1_.png"
+                    },
+                    "lblACtAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$12,450.75"
+                    },
+                    "lblPrimSavings": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Primary Savings"
+                    },
+                    "lblSavAcc": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account "
+                    },
+                    "lblSavAmt": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "123456XXXX"
+                    }
+                }
+            ],
+            "isVisible": true,
+            "rowTemplate": "fc5da866baee43bf9377ea3f924c1461",
+            "sectionHeaderTemplate": null,
+            "widgetDataMap": {
+                "flxAccInfo": "flxAccInfo",
+                "flxAmt": "flxAmt",
+                "flxHome": "flxHome",
+                "flxHomeBg": "flxHomeBg",
+                "flxMainBg": "flxMainBg",
+                "flxNext": "flxNext",
+                "imgHome": "imgHome",
+                "imgNext": "imgNext",
+                "lblACtAmt": "lblACtAmt",
+                "lblPrimSavings": "lblPrimSavings",
+                "lblSavAcc": "lblSavAcc",
+                "lblSavAmt": "lblSavAmt"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
     "rowTemplateId": "a54818537e804237b9d05c1ca6ea6b59",
-    "rowcounter": 9,
+    "rowcounter": 4,
     "rowexpandable": false,
     "rowfocusskin": "sc7da77af15d4865a7cf0b102f8741b7",
     "rowskin": "s88fa22c4eff483da91fc5db02653a09",
     "rowtemplate": "flxrow1",
     "screenlevelwidget": false,
     "seccounter": 0,
+    "sectionHeaderTemplateId": null,
     "sectionheaderskin": "s63dc8dc6e5b409da85639798de83543",
+    "sectionheadertemplate": null,
     "selectedRows": null,
     "selectedState": false,
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "aaaaaa00",
     "separatorrequired": true,
@@ -234,10 +531,17 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
+        "flxAccInfo": "flxAccInfo",
+        "flxAmt": "flxAmt",
         "flxBg": "flxBg",
+        "flxHome": "flxHome",
+        "flxNext": "flxNext",
         "flxrow1": "flxrow1",
         "imgHome": "imgHome",
+        "imgNext": "imgNext",
         "lblAccNo": "lblAccNo",
+        "lblPriSav": "lblPriSav",
+        "lblSavAmt": "lblSavAmt",
         "lblSavingsAcc": "lblSavingsAcc"
     },
     "zindex": 1

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "200dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "123456XXXX",
     "_top_": {
         "type": "string",
-        "value": "44dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,7 +39,6 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lblAccNo",
@@ -58,7 +57,7 @@
     "isvisible": true,
     "kuid": "d6bd7f116c724af4ae1120e2b81ded8c",
     "name": "kony.ui.Label",
-    "parent": "flxrow1",
+    "parent": "flxAccInfo",
     "pf": "segAccount",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

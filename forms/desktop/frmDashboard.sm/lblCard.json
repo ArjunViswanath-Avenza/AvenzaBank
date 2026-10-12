@@ -59,6 +59,15 @@
     "name": "kony.ui.Label",
     "parent": "flxCard",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "12dp"
+            },
+            "skin": "s17f55eccd5e4f47a136aa0845d14cf4"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

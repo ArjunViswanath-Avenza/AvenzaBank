@@ -59,6 +59,14 @@
     "name": "kony.ui.Label",
     "parent": "flxGoodmrng",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "8dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

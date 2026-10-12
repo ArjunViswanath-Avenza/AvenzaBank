@@ -59,6 +59,11 @@
     "name": "kony.ui.Label",
     "parent": "flxYrAcc",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b3": {
+            "skin": "s430720a17854295b3e2387868a655de"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

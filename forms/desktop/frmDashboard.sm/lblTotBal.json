@@ -59,6 +59,11 @@
     "name": "kony.ui.Label",
     "parent": "flxTotBal",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b3": {
+            "skin": "sb09cc4000b94b46ad7b18c64de64ab2"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

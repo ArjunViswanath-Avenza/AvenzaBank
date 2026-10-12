@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "200dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Savings Account",
     "_top_": {
         "type": "string",
-        "value": "16dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,7 +39,6 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
     "id": "lblSavingsAcc",
@@ -58,7 +57,7 @@
     "isvisible": true,
     "kuid": "hf01ca43cbcd407ea5a9dd2e9cd583ae",
     "name": "kony.ui.Label",
-    "parent": "flxrow1",
+    "parent": "flxAccInfo",
     "pf": "segAccount",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

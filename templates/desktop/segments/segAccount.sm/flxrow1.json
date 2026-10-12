@@ -34,10 +34,10 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "lblSavingsAcc",
-        "lblAccNo",
-        "imgHome",
-        "flxBg"
+        "flxHome",
+        "flxAccInfo",
+        "flxAmt",
+        "flxNext"
     ],
     "clipbounds": false,
     "containerId": true,
@@ -56,7 +56,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "f8f2ccfb0ca44ac6982d698eefe37177",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "segAccount",
     "pf": "segAccount",

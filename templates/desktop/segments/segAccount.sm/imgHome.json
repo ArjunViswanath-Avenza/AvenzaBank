@@ -2,13 +2,17 @@
     "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "_base64_": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "20px"
     },
     "_left_": {
         "type": "string",
-        "value": "113dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -26,13 +30,21 @@
     "_src_": "home_icon_silhouette.png",
     "_top_": {
         "type": "string",
-        "value": "22dp"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "30dp"
+        "value": "26px"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerId": true,
     "containerweight": 100,
     "id": "imgHome",
@@ -41,9 +53,9 @@
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "eb2fc1c9c780487dab1660d4748a8f88",
+    "kuid": "bffe95669746460fa4dab3e673b8f510",
     "name": "kony.ui.Image2",
-    "parent": "flxrow1",
+    "parent": "flxBg",
     "pf": "segAccount",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -59,6 +59,15 @@
     "name": "kony.ui.Label",
     "parent": "flxSpend",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "12dp"
+            },
+            "skin": "s846db32ce324cfc9c1a2e16010e3f82"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

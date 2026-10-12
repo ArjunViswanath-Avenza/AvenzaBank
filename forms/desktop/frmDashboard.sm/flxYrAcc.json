@@ -45,10 +45,36 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "a228b450676147ea8fed51d01d1c7d1b",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxContent",
     "pf": "frmDashboard",
+    "responsiveData": {
+        "b2": {
+            "left": {
+                "type": "string",
+                "value": "70dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "15.63%"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "37dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "26.38%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
