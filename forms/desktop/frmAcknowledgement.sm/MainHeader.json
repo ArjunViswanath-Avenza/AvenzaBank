@@ -33,6 +33,8 @@
         "type": "string",
         "value": "100%"
     },
+    "android": {},
+    "androidwearos": {},
     "areflexpropsreferenced": false,
     "autogrowmode": 1,
     "canUpdateUI": true,
@@ -43,7 +45,7 @@
             "__events__": {},
             "__info__": {
                 "isRoot": true,
-                "kuid": "i3357172564f4ae89f2d4cf391a93cf7",
+                "kuid": "e7158da2b6464c67a6991e2bce2c6b5b",
                 "srcKUID": "c8bbc02c88044b4eb89d12cde7dc1064",
                 "wType": "FlexContainer"
             },
@@ -69,7 +71,7 @@
         "flxContents": {
             "__events__": {},
             "__info__": {
-                "kuid": "db0bd41acd00485da02957644812b022",
+                "kuid": "ca812ac5a2f94dd2b1093f1496779120",
                 "srcKUID": "a978bcd341174297b87cf7be654e014f",
                 "wType": "FlexContainer"
             },
@@ -111,7 +113,7 @@
         "flxMain": {
             "__events__": {},
             "__info__": {
-                "kuid": "b0c844a1b5d043a3ad9f68c98cf91466",
+                "kuid": "h7692f96fc4f406fa30d16b0e8d27bc8",
                 "srcKUID": "fddd94b8bc9a4269ab019a1ad0d0fd96",
                 "wType": "FlexContainer"
             }
@@ -119,7 +121,7 @@
         "flxNameRound": {
             "__events__": {},
             "__info__": {
-                "kuid": "e1d06383a3fb45e9ab112f15b24399a5",
+                "kuid": "cccf90fbe12e45dc8f2b24580cc1bc56",
                 "srcKUID": "af28fbad67c34b8482ebe3df8ed55179",
                 "wType": "FlexContainer"
             },
@@ -191,7 +193,7 @@
         "flxTop": {
             "__events__": {},
             "__info__": {
-                "kuid": "gb3f3cb553b542308e596fb883a327fb",
+                "kuid": "i77b5f239ecc428cb123fec27abb7cda",
                 "srcKUID": "e52cd87f49ea416f9a2e1e9e9191f09d",
                 "wType": "FlexContainer"
             }
@@ -199,7 +201,7 @@
         "lblAccounts": {
             "__events__": {},
             "__info__": {
-                "kuid": "j66183134ef14795aea791bcbcbbcbbd",
+                "kuid": "bc7da78d4cc744cd989d139f385cd7ad",
                 "srcKUID": "e8f3214f6aa2423a94935cd9dd20bd46",
                 "wType": "Label"
             },
@@ -221,7 +223,7 @@
         "lblAvenza": {
             "__events__": {},
             "__info__": {
-                "kuid": "h5fbc5a9977b4a07b750be77ce17f6d9",
+                "kuid": "cde77506da304c8db2a81fd82c281386",
                 "srcKUID": "d25f7e45e014464e971671bd4bb61986",
                 "wType": "Label"
             },
@@ -243,7 +245,7 @@
         "lblBank": {
             "__events__": {},
             "__info__": {
-                "kuid": "b3d684e185774975824e87d3bec30561",
+                "kuid": "ced33cbeedbc48f5bc693d28f922092a",
                 "srcKUID": "dcdc320a996748db8df474f28fd68d83",
                 "wType": "Label"
             },
@@ -265,7 +267,7 @@
         "lblMF": {
             "__events__": {},
             "__info__": {
-                "kuid": "h515d4a0e98242c7bc5a64afdf62eede",
+                "kuid": "ec73652aaccc4b178826744f40967f77",
                 "srcKUID": "i5c473c234f94d80af5d4e7fab313998",
                 "wType": "Label"
             }
@@ -273,7 +275,7 @@
         "lblMayaFernandes": {
             "__events__": {},
             "__info__": {
-                "kuid": "cfe82b9a844f44eea148b11c16abbd58",
+                "kuid": "gec7dfdfef3b4259a75620eb2e329c60",
                 "srcKUID": "c392bb0e133c4634acc531ea658067fa",
                 "wType": "Label"
             },
@@ -305,7 +307,7 @@
         "lblProfile": {
             "__events__": {},
             "__info__": {
-                "kuid": "hfb59b660f8c4f47860ef2093b1a85bb",
+                "kuid": "h4fad617be324f95901adec61e4f51cf",
                 "srcKUID": "ef5b4de359fd473896f0c1ca18551699",
                 "wType": "Label"
             },
@@ -327,7 +329,7 @@
         "lblTransfer": {
             "__events__": {},
             "__info__": {
-                "kuid": "id732d3140f342559964ed8ce20b5b7f",
+                "kuid": "ca8fa9c0ffba48799b33fa32a78aa85c",
                 "srcKUID": "j427ee4d366d4565980a76de9cc508f9",
                 "wType": "Label"
             },
@@ -347,24 +349,49 @@
             }
         }
     },
+    "desktopweb": {},
     "enablescrolling": true,
     "id": "MainHeader",
     "info": null,
+    "ipad": {},
+    "iphone": {},
     "iscustomlayout": false,
     "isdatareferenced": false,
     "isvisible": true,
-    "kuid": "i3357172564f4ae89f2d4cf391a93cf7",
+    "kiosk": {},
+    "kuid": "e7158da2b6464c67a6991e2bce2c6b5b",
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
     "parent": "flxHeader",
     "pf": "frmAcknowledgement",
+    "responsiveData": {
+        "b2": {}
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "sourceUserWidget": "c8bbc02c88044b4eb89d12cde7dc1064",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
     "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
     "zindex": 1
 }

@@ -40,7 +40,8 @@
     },
     "children": [
         "lblKYC",
-        "lblVerified"
+        "lblVerified",
+        "flxLine10"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -54,6 +55,18 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxCustDetail",
     "pf": "frmProfile",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "51.66%"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

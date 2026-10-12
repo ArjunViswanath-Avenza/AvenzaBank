@@ -61,7 +61,10 @@
     "pf": "frmProfile",
     "responsiveData": {
         "b2": {
-            "skin": "sa9c2e1767814cdd969cbf5b230a8915"
+            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c"
+        },
+        "b3": {
+            "skin": "safdb57f26bb402abd55d4041faae8d9"
         }
     },
     "retaincontentalignment": false,

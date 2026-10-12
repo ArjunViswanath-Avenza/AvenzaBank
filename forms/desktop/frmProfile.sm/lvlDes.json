@@ -62,6 +62,9 @@
     "responsiveData": {
         "b2": {
             "skin": "s411785ec2b9426a8b7688c590993501"
+        },
+        "b3": {
+            "isVisible": false
         }
     },
     "retaincontentalignment": false,
