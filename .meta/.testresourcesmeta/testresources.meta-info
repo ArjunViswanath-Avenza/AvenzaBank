@@ -7,6 +7,16 @@
         "parent": "h010784f13004202b6fa0d6ef36fb49b",
         "type": "D"
     },
+    "ab72b4ada93a462dbb68c6028276145c": {
+        "children": [
+            "bf951f4e39ad46d0bd42ed4278e4669b",
+            "c87a10fa9a5d4ac1a06b7b94e0b9af7a"
+        ],
+        "kuid": "ab72b4ada93a462dbb68c6028276145c",
+        "name": "Page Object Models",
+        "parent": "f105721ebf804f738e90fde487faec12",
+        "type": "D"
+    },
     "ac6d840edaba4fadb30a2db96314b2f5": {
         "children": [],
         "kuid": "ac6d840edaba4fadb30a2db96314b2f5",
@@ -18,7 +28,8 @@
         "children": [
             "gad3f3284a5f4c2c8382e371aca57933",
             "c3d704b404a041629856441f6ac4b101",
-            "eead4e65b9944f679342ce255bf3122e"
+            "eead4e65b9944f679342ce255bf3122e",
+            "h447695b78eb4ad7a4ecb14a955e4c73"
         ],
         "kuid": "b28c195617084bd98bb9c74ef8643773",
         "name": "Tablet",
@@ -65,6 +76,13 @@
         "parent": "f105721ebf804f738e90fde487faec12",
         "type": "D"
     },
+    "bf951f4e39ad46d0bd42ed4278e4669b": {
+        "children": [],
+        "kuid": "bf951f4e39ad46d0bd42ed4278e4669b",
+        "name": "Forms",
+        "parent": "ab72b4ada93a462dbb68c6028276145c",
+        "type": "D"
+    },
     "c3d704b404a041629856441f6ac4b101": {
         "children": [
             "b52f971341ae4f7086458d92fbab6396"
@@ -74,12 +92,45 @@
         "parent": "b28c195617084bd98bb9c74ef8643773",
         "type": "D"
     },
+    "c5e56bdda398407da3a59c96ac2360dd": {
+        "children": [
+            "fc59efc2d23341ed9b122b2aa195205f",
+            "jc5d78ecc45f4db9992cdd55e62b9388"
+        ],
+        "kuid": "c5e56bdda398407da3a59c96ac2360dd",
+        "name": "Page Object Models",
+        "parent": "h010784f13004202b6fa0d6ef36fb49b",
+        "type": "D"
+    },
+    "c87a10fa9a5d4ac1a06b7b94e0b9af7a": {
+        "children": [],
+        "kuid": "c87a10fa9a5d4ac1a06b7b94e0b9af7a",
+        "name": "Templates",
+        "parent": "ab72b4ada93a462dbb68c6028276145c",
+        "type": "D"
+    },
+    "cf61ef967e8d4e13bfa2766fc3a935a8": {
+        "children": [
+            "gb1712b8afea429e93fe850ef282afa1"
+        ],
+        "kuid": "cf61ef967e8d4e13bfa2766fc3a935a8",
+        "name": "Page Object Models",
+        "parent": "f771d01096ce4a999320623ba6156164",
+        "type": "D"
+    },
     "d5b1868814854f6cb0d75fe7e76fe95f": {
         "extension": "js",
         "kuid": "d5b1868814854f6cb0d75fe7e76fe95f",
         "name": "customReporter.js",
         "parent": "f771d01096ce4a999320623ba6156164",
         "type": "F"
+    },
+    "e794a82cf0954725b2cbf164d1f874d9": {
+        "children": [],
+        "kuid": "e794a82cf0954725b2cbf164d1f874d9",
+        "name": "Forms",
+        "parent": "h447695b78eb4ad7a4ecb14a955e4c73",
+        "type": "D"
     },
     "ec94eb965aee4bd7af8e9aea3517cac4": {
         "extension": "js",
@@ -99,7 +150,8 @@
         "children": [
             "f5f3d64753fb4bf5add794161e9b1575",
             "g1d90a74843841beb568b19e585d9be3",
-            "bf8f3768458848cebe8a6ea1fb6d4ddf"
+            "bf8f3768458848cebe8a6ea1fb6d4ddf",
+            "ab72b4ada93a462dbb68c6028276145c"
         ],
         "kuid": "f105721ebf804f738e90fde487faec12",
         "name": "Desktop",
@@ -115,7 +167,8 @@
     },
     "f771d01096ce4a999320623ba6156164": {
         "children": [
-            "d5b1868814854f6cb0d75fe7e76fe95f"
+            "d5b1868814854f6cb0d75fe7e76fe95f",
+            "cf61ef967e8d4e13bfa2766fc3a935a8"
         ],
         "kuid": "f771d01096ce4a999320623ba6156164",
         "name": "Common",
@@ -131,11 +184,25 @@
         "name": "testresources",
         "type": "D"
     },
+    "fb2a21d29714453ab7a61065b57c103f": {
+        "children": [],
+        "kuid": "fb2a21d29714453ab7a61065b57c103f",
+        "name": "Templates",
+        "parent": "h447695b78eb4ad7a4ecb14a955e4c73",
+        "type": "D"
+    },
     "fc48f607ea154e7ba9c4906134d08b32": {
         "children": [],
         "kuid": "fc48f607ea154e7ba9c4906134d08b32",
         "name": "Mobile",
         "parent": "gb3081eb4b5c456987b837bf643e1f6c",
+        "type": "D"
+    },
+    "fc59efc2d23341ed9b122b2aa195205f": {
+        "children": [],
+        "kuid": "fc59efc2d23341ed9b122b2aa195205f",
+        "name": "Forms",
+        "parent": "c5e56bdda398407da3a59c96ac2360dd",
         "type": "D"
     },
     "g1d90a74843841beb568b19e585d9be3": {
@@ -152,6 +219,13 @@
         "kuid": "gad3f3284a5f4c2c8382e371aca57933",
         "name": "Test Cases",
         "parent": "b28c195617084bd98bb9c74ef8643773",
+        "type": "D"
+    },
+    "gb1712b8afea429e93fe850ef282afa1": {
+        "children": [],
+        "kuid": "gb1712b8afea429e93fe850ef282afa1",
+        "name": "Components",
+        "parent": "cf61ef967e8d4e13bfa2766fc3a935a8",
         "type": "D"
     },
     "gb3081eb4b5c456987b837bf643e1f6c": {
@@ -177,11 +251,22 @@
         "children": [
             "ac6d840edaba4fadb30a2db96314b2f5",
             "j282b774cf15437b800ff454e22bd8b3",
-            "a6a4c8b68883495382ac0cdfa6056c25"
+            "a6a4c8b68883495382ac0cdfa6056c25",
+            "c5e56bdda398407da3a59c96ac2360dd"
         ],
         "kuid": "h010784f13004202b6fa0d6ef36fb49b",
         "name": "Mobile",
         "parent": "baa276826db94b6d93c145e04803ed59",
+        "type": "D"
+    },
+    "h447695b78eb4ad7a4ecb14a955e4c73": {
+        "children": [
+            "e794a82cf0954725b2cbf164d1f874d9",
+            "fb2a21d29714453ab7a61065b57c103f"
+        ],
+        "kuid": "h447695b78eb4ad7a4ecb14a955e4c73",
+        "name": "Page Object Models",
+        "parent": "b28c195617084bd98bb9c74ef8643773",
         "type": "D"
     },
     "i50dff53839e46f0b1461fab96f02fad": {
@@ -198,6 +283,13 @@
         "kuid": "j282b774cf15437b800ff454e22bd8b3",
         "name": "Test Plans",
         "parent": "h010784f13004202b6fa0d6ef36fb49b",
+        "type": "D"
+    },
+    "jc5d78ecc45f4db9992cdd55e62b9388": {
+        "children": [],
+        "kuid": "jc5d78ecc45f4db9992cdd55e62b9388",
+        "name": "Templates",
+        "parent": "c5e56bdda398407da3a59c96ac2360dd",
         "type": "D"
     }
 }
