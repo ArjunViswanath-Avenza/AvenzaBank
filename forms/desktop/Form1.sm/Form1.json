@@ -73,9 +73,6 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kiosk": {
-        "needAppMenu": false
-    },
     "kuid": "j3cb7ecce2104db89b2a5a5ba8559fd8",
     "layouttype": 2,
     "name": "kony.ui.Form2",
@@ -86,32 +83,8 @@
     "retainscrollposition": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "spaan": {
-        "needAppMenu": false
-    },
-    "spaandroidtablet": {
-        "needAppMenu": false
-    },
-    "spaip": {
-        "needAppMenu": false
-    },
-    "spaipad": {
-        "needAppMenu": false
-    },
-    "spawindowstablet": {
-        "needAppMenu": false
-    },
-    "spawinphone8": {
-        "needAppMenu": false
-    },
     "titleBarSkin": "s4b4260b19914c8f8e835ebe11946743",
     "titlebar": true,
     "type": 3,
-    "wType": "Form",
-    "windows8": {
-        "needAppMenu": false
-    },
-    "winphone8": {
-        "needAppMenu": false
-    }
+    "wType": "Form"
 }

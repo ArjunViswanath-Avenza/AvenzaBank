@@ -483,14 +483,14 @@
                 }
             ],
             "isVisible": true,
-            "rowTemplate": "fc5da866baee43bf9377ea3f924c1461",
+            "rowTemplate": "j97adace75e440a6bde4e1de431d1bc4",
             "sectionHeaderTemplate": null,
             "widgetDataMap": {
                 "flxAccInfo": "flxAccInfo",
                 "flxAmt": "flxAmt",
+                "flxBg": "flxBg",
                 "flxHome": "flxHome",
                 "flxHomeBg": "flxHomeBg",
-                "flxMainBg": "flxMainBg",
                 "flxNext": "flxNext",
                 "imgHome": "imgHome",
                 "imgNext": "imgNext",

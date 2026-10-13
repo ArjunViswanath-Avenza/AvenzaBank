@@ -358,7 +358,6 @@
     "iscustomlayout": false,
     "isdatareferenced": false,
     "isvisible": true,
-    "kiosk": {},
     "kuid": "e7158da2b6464c67a6991e2bce2c6b5b",
     "layouttype": 2,
     "masterType": 0,
@@ -374,24 +373,11 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "sourceUserWidget": "c8bbc02c88044b4eb89d12cde7dc1064",
-    "spa": {},
-    "spaan": {},
-    "spaandroidtablet": {},
     "spabb": {},
-    "spaip": {},
-    "spaipad": {},
-    "spamobile": {},
-    "spatablet": {},
-    "spawindowstablet": {},
-    "spawinphone8": {},
     "tabrcandroid": {},
     "vizProps": {
         "hidewidgethierarchy": false
     },
     "wType": "UserWidgetInstance",
-    "windows10": {},
-    "windows8": {},
-    "winphone10": {},
-    "winphone8": {},
     "zindex": 1
 }
