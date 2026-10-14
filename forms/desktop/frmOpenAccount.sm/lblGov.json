@@ -60,10 +60,18 @@
     "parent": "flxInfo1",
     "pf": "frmOpenAccount",
     "responsiveData": {
+        "b1": {
+            "skin": "s40b31c9cbf9487ab1dd1bf46e587626"
+        },
         "b2": {
-            "width": {
+            "left": {
                 "type": "string",
-                "value": "100%"
+                "value": "8%"
+            },
+            "skin": "s40b31c9cbf9487ab1dd1bf46e587626",
+            "width": {
+                "type": "ref",
+                "value": "preferred"
             }
         },
         "b3": {

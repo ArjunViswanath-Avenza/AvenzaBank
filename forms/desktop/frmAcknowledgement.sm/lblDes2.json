@@ -60,6 +60,13 @@
     "parent": "flxDescription",
     "pf": "frmAcknowledgement",
     "responsiveData": {
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "skin": "s40b31c9cbf9487ab1dd1bf46e587626"
+        },
         "b3": {
             "skin": "s526892cfb9a4babb919421495ac10f3",
             "text": "should land the same business day."

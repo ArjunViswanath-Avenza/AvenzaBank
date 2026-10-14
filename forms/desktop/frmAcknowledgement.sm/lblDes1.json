@@ -60,6 +60,13 @@
     "parent": "flxDescription",
     "pf": "frmAcknowledgement",
     "responsiveData": {
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "skin": "s40b31c9cbf9487ab1dd1bf46e587626"
+        },
         "b3": {
             "skin": "s8915f96e32f41478267ab8f7e42ff52",
             "text": "$1,200.00 is on its way to Rahul Mehta.It"

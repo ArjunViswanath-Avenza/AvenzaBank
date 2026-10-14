@@ -62,8 +62,8 @@
     "responsiveData": {
         "b2": {
             "width": {
-                "type": "string",
-                "value": "100%"
+                "type": "ref",
+                "value": "preferred"
             }
         },
         "b3": {

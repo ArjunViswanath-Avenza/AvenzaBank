@@ -18,7 +18,7 @@
     "_pxMenuIndex": [
         2,
         1,
-        0
+        1
     ],
     "_skin_": "scf0bb0ac9ac406fad753f56963d9262",
     "_title_": null,
@@ -61,8 +61,8 @@
         }
     },
     "currentBreakpoint": {
-        "kuid": "b1",
-        "width": 1366
+        "kuid": "b2",
+        "width": 1024
     },
     "currentLocale": "default",
     "desktopweb": {
