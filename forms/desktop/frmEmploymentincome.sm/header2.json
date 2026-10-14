@@ -1,0 +1,259 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se2378f36ddf49cbb6fc2b9329ed14a5",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxFrstline": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c4b861fa47684d33b951968aeae8d0f4",
+                "srcKUID": "d2c631625e454a87a86e18f81f0f3ec5",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxInsindeline": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fc8cc7b898654d0e8dde469624781123",
+                "srcKUID": "i43020aa2456425d9540863af9573e36",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxbg": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "bca701ab67de4f3bbefc8391e18f767f",
+                "srcKUID": "g72b9e873c02480686d4f68f91178fd5",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "header2": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "gbbca5c4d54c46ddbac4016f27172aab",
+                "srcKUID": "dc3299f470514829814062d8abd8ef8c",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            },
+            "isVisible": true,
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "maxHeight": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "maxWidth": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "minHeight": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "minWidth": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "responsiveData": {
+                "b3": {
+                    "isVisible": false
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        },
+        "lblText1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d51f0f55a1424a7cac084c4d9fa2c307",
+                "srcKUID": "c1fdff02487143a18f7c56fea7535dbe",
+                "wType": "Label"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "104dp"
+                }
+            },
+            "responsiveData": {
+                "b1": {
+                    "text": null
+                },
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "50dp"
+                    }
+                }
+            },
+            "text": "Employment and income"
+        },
+        "lblText2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e8a33662ae94492c99b2b422bae91ec3",
+                "srcKUID": "dc4de2c435dd4562a3d15c5fa8e3c330",
+                "wType": "Label"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "1116dp"
+                }
+            },
+            "responsiveData": {
+                "b1": {
+                    "text": "Step 6 of 7"
+                },
+                "b2": {
+                    "left": {
+                        "type": "string",
+                        "value": "840dp"
+                    },
+                    "text": "Step 6 of 7",
+                    "top": {
+                        "type": "string",
+                        "value": "12dp"
+                    }
+                },
+                "b3": {
+                    "left": {
+                        "type": "string",
+                        "value": "500dp"
+                    },
+                    "text": "Step 6 of 7"
+                }
+            },
+            "text": "Label",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "12dp"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "header2",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "gbbca5c4d54c46ddbac4016f27172aab",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHeader2",
+    "pf": "frmEmploymentincome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "dc3299f470514829814062d8abd8ef8c",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

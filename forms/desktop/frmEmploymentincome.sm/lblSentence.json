@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s63fa6b7c6e948c8a0a4aeda33aded9d",
+    "_text_": "Are you, or is a close relative, a politically exposed person?",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblSentence",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d80bc1f42cd043338f5815a76b3fe5f8",
+    "name": "kony.ui.Label",
+    "parent": "flxRow5",
+    "pf": "frmEmploymentincome",
+    "responsiveData": {
+        "b1": {
+            "skin": "s660360658054b54a648645615d1dd3c"
+        },
+        "b2": {
+            "skin": "sd969d66458841608c8cb137c8332d45",
+            "text": "Are you a a politically exposed person?"
+        },
+        "b3": {
+            "skin": "s48c1729353c4f8eb88d418db14bf294",
+            "text": "Are youa politically exposed person?"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

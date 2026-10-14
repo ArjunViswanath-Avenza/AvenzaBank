@@ -1,0 +1,88 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s9249d420dc149e492333fbd30c68219",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s253a8de773e491b8b80a3ce92e9515e",
+    "groupcells": false,
+    "id": "lstSalary",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e6ab3a4ce95f4fa2882cb96ba1d4c915",
+    "masterdata": [
+        [
+            "lb1",
+            "Salary"
+        ],
+        [
+            "lb2",
+            "Bussiness income"
+        ],
+        [
+            "lb3",
+            "Investment"
+        ],
+        [
+            "Key2326936791",
+            "Pension"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxRow4",
+    "pf": "frmEmploymentincome",
+    "responsiveData": {
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "55dp"
+            },
+            "skin": "s0e7f9650e4a4d549a745d1ce91f96b3"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

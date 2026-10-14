@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "sa5631f38041418f973e8097251b2062",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s253a8de773e491b8b80a3ce92e9515e",
+    "groupcells": false,
+    "id": "lstAnnualincome",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bb371bf182a8445db572cce4a4095f80",
+    "masterdata": [
+        [
+            "lb1",
+            "10000-20000"
+        ],
+        [
+            "lb2",
+            "50000-1000000"
+        ],
+        [
+            "lb3",
+            "30000-40000"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxInsideboxbg",
+    "pf": "frmEmploymentincome",
+    "responsiveData": {
+        "b3": {
+            "skin": "s1442e9c806a4dd19a28ea833e9f4c28"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

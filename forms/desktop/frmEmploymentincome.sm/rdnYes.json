@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "34dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sde6dacdef6340098da4d76d7abcd693",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "rdnYes",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "c4fcefdcf98e4e1a815e6354e792f37a",
+    "masterdata": [
+        [
+            "rbg1",
+            "Yes"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "flxYes",
+    "pf": "frmEmploymentincome",
+    "responsiveData": {
+        "b1": {
+            "skin": "sd1191e6bc01407cade348e5f4c03a77"
+        },
+        "b2": {
+            "skin": "s159d9a229074a579958e8e87c05e064",
+            "width": {
+                "type": "string",
+                "value": "35%"
+            }
+        },
+        "b3": {
+            "skin": "s862b71646aa476996274fc59c434a21",
+            "width": {
+                "type": "string",
+                "value": "40%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "rbg1",
+    "selectedkeyvalue": [
+        "rbg1",
+        "Yes"
+    ],
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s9249d420dc149e492333fbd30c68219",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s253a8de773e491b8b80a3ce92e9515e",
+    "groupcells": false,
+    "id": "lstEmployeestatus",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d052d33dd40241d98e99d8dbb175df13",
+    "masterdata": [
+        [
+            "lb1",
+            "Employee full time"
+        ],
+        [
+            "lb2",
+            "self employed"
+        ],
+        [
+            "lb3",
+            "retried"
+        ],
+        [
+            "Key2326936791",
+            "Student"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxRow1",
+    "pf": "frmEmploymentincome",
+    "responsiveData": {
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "55dp"
+            },
+            "skin": "s1e4231971b64b829db7459d010bc022"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
