@@ -50,6 +50,9 @@
     "parent": "flxParent",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "skin": "s019fa5a22174c24aad3a7a51091d1e1"
+        },
         "b3": {
             "isVisible": false
         }

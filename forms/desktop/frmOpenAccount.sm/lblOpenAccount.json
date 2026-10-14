@@ -60,6 +60,9 @@
     "parent": "flxContent",
     "pf": "frmOpenAccount",
     "responsiveData": {
+        "b2": {
+            "skin": "s89c79a6a6444f5ea951eab885b2df6d"
+        },
         "b3": {
             "skin": "s89c79a6a6444f5ea951eab885b2df6d",
             "top": {

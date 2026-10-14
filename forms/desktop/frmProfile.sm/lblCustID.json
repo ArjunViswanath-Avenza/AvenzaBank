@@ -60,6 +60,9 @@
     "parent": "flxCustId",
     "pf": "frmProfile",
     "responsiveData": {
+        "b1": {
+            "text": "Customer ID"
+        },
         "b2": {
             "skin": "s9262b76be504841ba87554ecac0a21f"
         },

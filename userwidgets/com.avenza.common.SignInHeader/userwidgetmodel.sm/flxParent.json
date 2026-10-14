@@ -49,6 +49,11 @@
     "name": "kony.ui.FlexContainer",
     "parent": "SignInHeader",
     "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b2": {
+            "skin": "s019fa5a22174c24aad3a7a51091d1e1"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

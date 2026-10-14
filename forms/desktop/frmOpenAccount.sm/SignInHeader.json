@@ -91,6 +91,26 @@
                 "kuid": "h268a11eee3d4feeb30a5382cd86951a",
                 "srcKUID": "ideb5abbbdf646d9afb237e167cb8bdc",
                 "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b1": {
+                    "right": {
+                        "type": "string",
+                        "value": "7%"
+                    }
+                },
+                "b2": {
+                    "right": {
+                        "type": "string",
+                        "value": "6%"
+                    }
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "10%"
+                }
             }
         },
         "lblAvenza": {
