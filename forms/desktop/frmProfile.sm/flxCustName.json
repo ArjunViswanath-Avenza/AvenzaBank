@@ -62,10 +62,6 @@
             "height": {
                 "type": "string",
                 "value": "70dp"
-            },
-            "top": {
-                "type": "string",
-                "value": "4%"
             }
         },
         "b2": {

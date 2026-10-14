@@ -35,8 +35,9 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
+        "lblGettingStared",
         "flxTraxck",
-        "flxTitle"
+        "lblStep"
     ],
     "clipbounds": false,
     "containerweight": 100,

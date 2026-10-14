@@ -36,14 +36,6 @@
     "areflexpropsreferenced": false,
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "number",
-        "value": ""
-    },
-    "centery": {
-        "type": "number",
-        "value": ""
-    },
     "clipbounds": false,
     "containerweight": 0,
     "dataDiffs": {
@@ -54,30 +46,6 @@
                 "kuid": "g91e0e7412934bd8ba887507881ef889",
                 "srcKUID": "d6ae2c099d524b24a0fc75babc109d85",
                 "wType": "FlexContainer"
-            },
-            "centerX": {
-                "Default": {
-                    "type": "number",
-                    "value": ""
-                }
-            },
-            "centerY": {
-                "Default": {
-                    "type": "number",
-                    "value": ""
-                }
-            },
-            "responsiveData": {
-                "b1": {
-                    "centerX": {
-                        "type": "string",
-                        "value": "50%"
-                    },
-                    "centerY": {
-                        "type": "string",
-                        "value": "50%"
-                    }
-                }
             }
         },
         "flxFlow": {
@@ -86,28 +54,6 @@
                 "kuid": "dff3237a4dc3452cad5f8d54309d8f13",
                 "srcKUID": "e91ed7e30c4542c184a66e5b37651a03",
                 "wType": "FlexContainer"
-            },
-            "height": {
-                "Default": {
-                    "type": "string",
-                    "value": "80dp"
-                }
-            },
-            "left": {
-                "Default": {
-                    "type": "string",
-                    "value": "0dp"
-                }
-            },
-            "responsiveData": {
-                "b1": {},
-                "b3": {}
-            },
-            "top": {
-                "Default": {
-                    "type": "string",
-                    "value": "0dp"
-                }
             }
         },
         "flxGreenFlow": {
@@ -116,58 +62,6 @@
                 "kuid": "e3c68d7a94c94b549654b0e797cdf6dc",
                 "srcKUID": "he9b732ee28f4829b4365555309addce",
                 "wType": "FlexContainer"
-            }
-        },
-        "flxTitle": {
-            "__events__": {},
-            "__info__": {
-                "kuid": "b4107ace698f40af9378f474b1e0a004",
-                "srcKUID": "e87bca20a54b4e189b2cfabaaea8fda6",
-                "wType": "FlexContainer"
-            },
-            "centerX": {
-                "Default": {
-                    "type": "string",
-                    "value": "50.02%"
-                }
-            },
-            "responsiveData": {
-                "b1": {
-                    "centerX": {
-                        "type": "string",
-                        "value": "50%"
-                    },
-                    "width": {
-                        "type": "string",
-                        "value": "70%"
-                    }
-                },
-                "b2": {
-                    "centerX": {
-                        "type": "string",
-                        "value": "50%"
-                    },
-                    "width": {
-                        "type": "string",
-                        "value": "75%"
-                    }
-                },
-                "b3": {
-                    "centerX": {
-                        "type": "string",
-                        "value": "50%"
-                    },
-                    "width": {
-                        "type": "string",
-                        "value": "80%"
-                    }
-                }
-            },
-            "width": {
-                "Default": {
-                    "type": "string",
-                    "value": "45%"
-                }
             }
         },
         "flxTraxck": {
@@ -206,10 +100,6 @@
             },
             "responsiveData": {
                 "b1": {
-                    "centerX": {
-                        "type": "string",
-                        "value": "50%"
-                    },
                     "height": {
                         "type": "string",
                         "value": "6dp"
@@ -220,14 +110,10 @@
                     },
                     "width": {
                         "type": "string",
-                        "value": "70%"
+                        "value": "70.33%"
                     }
                 },
                 "b2": {
-                    "centerX": {
-                        "type": "string",
-                        "value": "50%"
-                    },
                     "height": {
                         "type": "string",
                         "value": "6dp"
@@ -238,7 +124,7 @@
                     },
                     "width": {
                         "type": "string",
-                        "value": "75%"
+                        "value": "75.27%"
                     }
                 },
                 "b3": {
@@ -248,7 +134,7 @@
                     },
                     "height": {
                         "type": "string",
-                        "value": "6dp"
+                        "value": "-17dp"
                     },
                     "right": {
                         "type": "string",
@@ -260,7 +146,7 @@
                     },
                     "width": {
                         "type": "string",
-                        "value": "80%"
+                        "value": "92.33%"
                     }
                 }
             },
@@ -290,12 +176,6 @@
                 "srcKUID": "ifdbf0fb686c4e6381d9135d68dc4ea7",
                 "wType": "Label"
             },
-            "bottom": {
-                "Default": {
-                    "type": "number",
-                    "value": ""
-                }
-            },
             "centerY": {
                 "Default": {
                     "type": "number",
@@ -312,39 +192,27 @@
                 "b1": {
                     "left": {
                         "type": "string",
-                        "value": "0%"
-                    },
-                    "top": {
-                        "type": "string",
-                        "value": "0dp"
+                        "value": "14.50%"
                     }
                 },
                 "b2": {
-                    "bottom": {
-                        "type": "string",
-                        "value": "0"
-                    },
                     "left": {
                         "type": "string",
-                        "value": "0dp"
+                        "value": "143dp"
                     },
                     "top": {
                         "type": "string",
-                        "value": ""
+                        "value": "15dp"
                     }
                 },
                 "b3": {
-                    "centerY": {
-                        "type": "string",
-                        "value": "50%"
-                    },
                     "left": {
                         "type": "string",
-                        "value": "0dp"
+                        "value": "90dp"
                     },
                     "top": {
                         "type": "string",
-                        "value": ""
+                        "value": "18dp"
                     }
                 }
             },
@@ -362,18 +230,6 @@
                 "srcKUID": "d802b7d236f4410196c6a9711d985fb7",
                 "wType": "Label"
             },
-            "bottom": {
-                "Default": {
-                    "type": "number",
-                    "value": ""
-                }
-            },
-            "centerY": {
-                "Default": {
-                    "type": "number",
-                    "value": ""
-                }
-            },
             "left": {
                 "Default": {
                     "type": "string",
@@ -388,48 +244,36 @@
                     },
                     "right": {
                         "type": "string",
-                        "value": "0%"
-                    },
-                    "top": {
-                        "type": "string",
-                        "value": "0dp"
+                        "value": "15%"
                     }
                 },
                 "b2": {
-                    "bottom": {
-                        "type": "string",
-                        "value": "0"
-                    },
                     "left": {
                         "type": "string",
                         "value": ""
                     },
                     "right": {
                         "type": "string",
-                        "value": "0%"
+                        "value": "11%"
                     },
                     "top": {
                         "type": "string",
-                        "value": ""
+                        "value": "15dp"
                     }
                 },
                 "b3": {
-                    "centerY": {
-                        "type": "string",
-                        "value": "50%"
-                    },
                     "left": {
                         "type": "string",
                         "value": ""
                     },
                     "right": {
                         "type": "string",
-                        "value": "0%"
+                        "value": "3%"
                     },
                     "text": "1 to 7",
                     "top": {
                         "type": "string",
-                        "value": ""
+                        "value": "18dp"
                     }
                 }
             },

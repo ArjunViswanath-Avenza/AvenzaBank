@@ -60,15 +60,8 @@
     "parent": "flxContent",
     "pf": "frmOpenAccount",
     "responsiveData": {
-        "b2": {
-            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c"
-        },
         "b3": {
-            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c",
-            "top": {
-                "type": "string",
-                "value": "3%"
-            }
+            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c"
         }
     },
     "retaincontentalignment": false,

@@ -51,12 +51,6 @@
     "parent": "flxCurrentAccount",
     "pf": "frmOpenAccount",
     "responsiveData": {
-        "b2": {
-            "left": {
-                "type": "string",
-                "value": "70dp"
-            }
-        },
         "b3": {
             "left": {
                 "type": "string",

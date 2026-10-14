@@ -70,8 +70,8 @@
     "responsiveData": {
         "b1": {
             "width": {
-                "type": "ref",
-                "value": "preferred"
+                "type": "string",
+                "value": "30%"
             }
         },
         "b2": {
@@ -79,11 +79,7 @@
                 "type": "string",
                 "value": "0%"
             },
-            "skin": "s1a51eaec25f4a4c917b75867fd4d15c",
-            "width": {
-                "type": "string",
-                "value": "60%"
-            }
+            "skin": "s1a51eaec25f4a4c917b75867fd4d15c"
         },
         "b3": {
             "centerY": {

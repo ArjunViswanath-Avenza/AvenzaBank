@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "31dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -22,19 +22,19 @@
         0
     ],
     "_placeholder_": "Please Select",
-    "_skin_": "sb55aafa7d074caaa8778956b173389d",
+    "_skin_": "sa1c87bd883e41fdb01b080f4588ff45",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "1%"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {
-        "type": "number",
-        "value": ""
+        "type": "string",
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 4,
@@ -45,7 +45,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j14037aaa0374467bf491505442b6570",
+    "kuid": "d8c9d4e8e23347fbabd23abb6af7d704",
     "masterdata": [
         [
             "lb1",
@@ -67,73 +67,6 @@
     "name": "kony.ui.ListBox",
     "parent": "flxContent",
     "pf": "frmOpenAccount",
-    "responsiveData": {
-        "b1": {
-            "centerX": {
-                "type": "string",
-                "value": ""
-            },
-            "height": {
-                "type": "string",
-                "value": "60dp"
-            },
-            "left": {
-                "type": "string",
-                "value": "0dp"
-            },
-            "skin": "s10d9c1ec12d41ed82f126767474ca85",
-            "top": {
-                "type": "string",
-                "value": "2%"
-            },
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        },
-        "b2": {
-            "height": {
-                "type": "string",
-                "value": "60dp"
-            },
-            "left": {
-                "type": "string",
-                "value": "0dp"
-            },
-            "skin": "s10d9c1ec12d41ed82f126767474ca85",
-            "top": {
-                "type": "string",
-                "value": "2%"
-            },
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        },
-        "b3": {
-            "centerX": {
-                "type": "string",
-                "value": ""
-            },
-            "height": {
-                "type": "string",
-                "value": "60dp"
-            },
-            "left": {
-                "type": "string",
-                "value": "0dp"
-            },
-            "skin": "s10d9c1ec12d41ed82f126767474ca85",
-            "top": {
-                "type": "string",
-                "value": "1%"
-            },
-            "width": {
-                "type": "string",
-                "value": "100%"
-            }
-        }
-    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": "lb1",

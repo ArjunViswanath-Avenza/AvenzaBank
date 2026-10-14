@@ -5,10 +5,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "number",
-        "value": ""
-    },
     "_margin_": [
         1,
         1,
@@ -64,26 +60,7 @@
     "parent": "flxDescription",
     "pf": "frmAcknowledgement",
     "responsiveData": {
-        "b1": {
-            "skin": "s3ce57d8e1e94535bc9674f6799b12d7"
-        },
-        "b2": {
-            "centerX": {
-                "type": "string",
-                "value": "50%"
-            },
-            "skin": "s63fa6b7c6e948c8a0a4aeda33aded9d"
-        },
         "b3": {
-            "centerX": {
-                "type": "string",
-                "value": "50%"
-            },
-            "left": {
-                "type": "string",
-                "value": ""
-            },
-            "skin": "s63fa6b7c6e948c8a0a4aeda33aded9d",
             "text": "On its way"
         }
     },

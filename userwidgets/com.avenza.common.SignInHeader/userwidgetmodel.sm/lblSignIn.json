@@ -59,14 +59,6 @@
     "name": "kony.ui.Label",
     "parent": "flxSignIn",
     "pf": "userwidgetmodel",
-    "responsiveData": {
-        "b1": {
-            "skin": "s90796bbc5f74bf0aef47fc8dc92b29f"
-        },
-        "b2": {
-            "skin": "secfc18b873d439fa187d227127e8d7f"
-        }
-    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

@@ -61,7 +61,6 @@
     "pf": "frmOpenAccount",
     "responsiveData": {
         "b2": {
-            "skin": "s40b31c9cbf9487ab1dd1bf46e587626",
             "width": {
                 "type": "string",
                 "value": "95%"
@@ -70,10 +69,6 @@
         "b3": {
             "skin": "s9262b76be504841ba87554ecac0a21f",
             "text": "Takes about 8 minutes. You can save and come back.",
-            "top": {
-                "type": "string",
-                "value": "1%"
-            },
             "width": {
                 "type": "string",
                 "value": "75%"

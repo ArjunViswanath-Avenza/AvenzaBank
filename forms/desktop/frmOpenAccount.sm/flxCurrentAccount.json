@@ -55,12 +55,6 @@
     "parent": "flxContent",
     "pf": "frmOpenAccount",
     "responsiveData": {
-        "b2": {
-            "width": {
-                "type": "ref",
-                "value": "preferred"
-            }
-        },
         "b3": {
             "centerX": {
                 "type": "string",
@@ -68,11 +62,7 @@
             },
             "height": {
                 "type": "string",
-                "value": "110dp"
-            },
-            "width": {
-                "type": "ref",
-                "value": "preferred"
+                "value": "120dp"
             }
         }
     },

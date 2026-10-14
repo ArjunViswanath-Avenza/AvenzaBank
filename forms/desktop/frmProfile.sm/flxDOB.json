@@ -55,16 +55,6 @@
     "parent": "flxPersonalInfo",
     "pf": "frmProfile",
     "responsiveData": {
-        "b1": {
-            "height": {
-                "type": "string",
-                "value": "80dp"
-            },
-            "top": {
-                "type": "string",
-                "value": "0dp"
-            }
-        },
         "b2": {
             "height": {
                 "type": "string",

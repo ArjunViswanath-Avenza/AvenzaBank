@@ -68,9 +68,6 @@
     "parent": "flxDes",
     "pf": "frmProfile",
     "responsiveData": {
-        "b1": {
-            "skin": "s87143e906d447fe9eb617c36bdfbbd5"
-        },
         "b2": {
             "skin": "s89c79a6a6444f5ea951eab885b2df6d"
         },

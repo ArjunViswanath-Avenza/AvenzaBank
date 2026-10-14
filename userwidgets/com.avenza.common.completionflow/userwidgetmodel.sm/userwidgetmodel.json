@@ -36,10 +36,6 @@
         "completionflow"
     ],
     "containerweight": 100,
-    "currentBreakpoint": {
-        "kuid": "b2",
-        "width": 1024
-    },
     "currentLocale": "default",
     "device": "desktopweb",
     "displayorientation": 3,
@@ -63,15 +59,12 @@
     },
     "paddinginpixel": false,
     "platform": "desktopweb",
-    "prevDevice": "desktopweb",
-    "prevPlatform": "desktopweb",
+    "prevDevice": "iPhone17ProMax",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
     "titlebar": true,
     "type": 3,
-    "vizProps": {
-        "globalRespDesignEnabled": false
-    },
     "wType": "Form"
 }
