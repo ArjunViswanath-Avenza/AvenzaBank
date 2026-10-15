@@ -4,6 +4,10 @@
         "type": "string",
         "value": "100dp"
     },
+    "_left_": {
+        "type": "number",
+        "value": ""
+    },
     "_margin_": [
         0,
         0,
@@ -34,6 +38,14 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "Nationality",
         "lbxNationality"
@@ -50,6 +62,30 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxBasicDetails",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "left": {
+                "type": "string",
+                "value": "0"
+            },
+            "top": {
+                "type": "string",
+                "value": "8%"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

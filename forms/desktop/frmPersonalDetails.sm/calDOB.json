@@ -39,6 +39,10 @@
     "advview": "default",
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "datecomponents": [
@@ -88,6 +92,15 @@
     "pf": "frmPersonalDetails",
     "popupHeight": "auto",
     "popupWidth": "auto",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "contentAlignment": 4
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "seconds": 0,

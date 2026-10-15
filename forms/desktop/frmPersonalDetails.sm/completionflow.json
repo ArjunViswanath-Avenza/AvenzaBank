@@ -54,6 +54,19 @@
                 "kuid": "ja3868f707e14887a6b922b885074486",
                 "srcKUID": "e91ed7e30c4542c184a66e5b37651a03",
                 "wType": "FlexContainer"
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
             }
         },
         "flxGreenFlow": {
@@ -98,11 +111,28 @@
                     "value": "50%"
                 }
             },
-            "responsiveData": {},
+            "responsiveData": {
+                "b1": {
+                    "width": {
+                        "type": "string",
+                        "value": "75%"
+                    }
+                },
+                "b2": {
+                    "centerX": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "75%"
+                    }
+                }
+            },
             "width": {
                 "Default": {
                     "type": "string",
-                    "value": "75%"
+                    "value": "92%"
                 }
             }
         },

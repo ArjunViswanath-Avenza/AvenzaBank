@@ -1,6 +1,10 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": ""
+    },
     "_height_": {
         "type": "ref",
         "value": "preferred"
@@ -23,6 +27,10 @@
     ],
     "_skin_": "s40b31c9cbf9487ab1dd1bf46e587626",
     "_text_": "Send me product updates and offers. You can turn this off at any time.",
+    "_top_": {
+        "type": "number",
+        "value": ""
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -59,6 +67,33 @@
     "name": "kony.ui.Label",
     "parent": "flxUpdates",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b2": {
+            "width": {
+                "type": "string",
+                "value": "82%"
+            }
+        },
+        "b3": {
+            "bottom": {
+                "type": "string",
+                "value": ""
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "skin": "s9262b76be504841ba87554ecac0a21f",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "75%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

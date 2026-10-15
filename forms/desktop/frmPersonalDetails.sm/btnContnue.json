@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "93dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb52da56f1d346c89ce95ad187c57d56",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sebb8da9cae845b7937327af2fecec1c",
+    "id": "btnContnue",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e20a6b9d5c3741f7b9e73f192e06f89e",
+    "name": "kony.ui.Button",
+    "parent": "flxcontinue",
+    "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "60dp"
+            },
+            "left": {
+                "type": "string",
+                "value": "93dp"
+            },
+            "skin": "s100c6d0bc2f41a0b209a9e7a947df0d",
+            "text": "Continue",
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

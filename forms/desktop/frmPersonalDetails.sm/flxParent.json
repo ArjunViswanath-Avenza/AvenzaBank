@@ -37,7 +37,8 @@
     "children": [
         "flxHeader",
         "flxFlow",
-        "flxContents"
+        "flxContents",
+        "flxcontinue"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -59,6 +59,15 @@
     "name": "kony.ui.Label",
     "parent": "flxContents",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "skin": "s9262b76be504841ba87554ecac0a21f",
+            "width": {
+                "type": "string",
+                "value": "70%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

@@ -62,6 +62,18 @@
                 "kuid": "ed66f8faf4c448ff95dc61ce15dd6eac",
                 "srcKUID": "a3dd274704f44571817fddea638d1694",
                 "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            },
+            "responsiveData": {
+                "b2": {}
             }
         },
         "flxParent": {

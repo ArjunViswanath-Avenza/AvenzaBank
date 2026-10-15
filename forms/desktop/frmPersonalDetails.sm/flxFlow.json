@@ -25,7 +25,7 @@
     "_skin_": "s019fa5a22174c24aad3a7a51091d1e1",
     "_top_": {
         "type": "string",
-        "value": "118dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -39,7 +39,8 @@
         "value": "50%"
     },
     "children": [
-        "completionflow"
+        "completionflow",
+        "flxArrow"
     ],
     "clipbounds": false,
     "containerweight": 100,
@@ -53,6 +54,28 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxParent",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "50.02%"
+            },
+            "top": {
+                "type": "string",
+                "value": "108dp"
+            }
+        },
+        "b2": {
+            "centerX": {
+                "type": "string",
+                "value": "50.00%"
+            },
+            "top": {
+                "type": "string",
+                "value": "108dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

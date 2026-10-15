@@ -32,6 +32,10 @@
         "value": "15.16%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "containerweight": 100,
     "contentalignment": 4,
     "focusskin": "s253a8de773e491b8b80a3ce92e9515e",
@@ -58,6 +62,22 @@
     "name": "kony.ui.ListBox",
     "parent": "flxMobileNumber",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "18%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": "lb1",

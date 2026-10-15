@@ -23,10 +23,6 @@
     ],
     "_skin_": "s89c79a6a6444f5ea951eab885b2df6d",
     "_text_": "Tell us about you",
-    "_top_": {
-        "type": "string",
-        "value": "45px"
-    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -59,6 +55,11 @@
     "name": "kony.ui.Label",
     "parent": "flxContents",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "skin": "s63fa6b7c6e948c8a0a4aeda33aded9d"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

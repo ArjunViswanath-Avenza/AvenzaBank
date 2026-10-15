@@ -62,6 +62,9 @@
     "responsiveData": {
         "b2": {
             "skin": "sa672bb78ac248f5a18a75c81ca5cd5c"
+        },
+        "b3": {
+            "skin": "s1a51eaec25f4a4c917b75867fd4d15c"
         }
     },
     "retaincontentalignment": false,

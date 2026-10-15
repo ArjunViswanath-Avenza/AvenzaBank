@@ -32,7 +32,6 @@
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "SignInHeader"
@@ -43,12 +42,28 @@
     "id": "flxHeader",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "bd683c1862dc488087538cb3b3f49753",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "flxParent",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "80dp"
+            },
+            "isVisible": true
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "80dp"
+            },
+            "isVisible": true
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

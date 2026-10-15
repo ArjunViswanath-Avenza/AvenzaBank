@@ -53,6 +53,14 @@
     "parent": "flxMobileNumber",
     "pf": "frmPersonalDetails",
     "placeholderskin": "seb7ade005c04622a6730983f00a34fe",
+    "responsiveData": {
+        "b3": {
+            "width": {
+                "type": "string",
+                "value": "75%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

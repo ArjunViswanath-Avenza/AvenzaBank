@@ -32,7 +32,6 @@
         "value": "90%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -54,6 +53,19 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxDetails",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "height": {
+                "type": "string",
+                "value": "220dp"
+            },
+            "layoutType": 4,
+            "top": {
+                "type": "string",
+                "value": "35dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

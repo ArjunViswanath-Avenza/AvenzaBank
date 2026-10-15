@@ -54,6 +54,19 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxDetails",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "45.02%"
+            },
+            "isVisible": false,
+            "top": {
+                "type": "string",
+                "value": "12dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

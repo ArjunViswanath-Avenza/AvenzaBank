@@ -34,6 +34,10 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "lblFirstname",
         "tbxFirstname"
@@ -50,6 +54,22 @@
     "name": "kony.ui.FlexContainer",
     "parent": "flxName",
     "pf": "frmPersonalDetails",
+    "responsiveData": {
+        "b3": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
