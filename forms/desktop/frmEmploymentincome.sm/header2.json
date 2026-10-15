@@ -142,6 +142,9 @@
                 }
             },
             "responsiveData": {
+                "b1": {
+                    "isVisible": true
+                },
                 "b3": {
                     "isVisible": false
                 }

@@ -59,10 +59,16 @@
     "parent": "frmEmploymentincome",
     "pf": "frmEmploymentincome",
     "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
         "b2": {
             "height": {
-                "type": "ref",
-                "value": "preferred"
+                "type": "string",
+                "value": "100%"
             }
         },
         "b3": {

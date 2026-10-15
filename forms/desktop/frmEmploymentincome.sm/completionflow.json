@@ -46,6 +46,15 @@
                 "kuid": "c6a8ef0917334f4f9561c175906d89ff",
                 "srcKUID": "d6ae2c099d524b24a0fc75babc109d85",
                 "wType": "FlexContainer"
+            },
+            "isVisible": true,
+            "responsiveData": {
+                "b1": {
+                    "isVisible": false
+                },
+                "b2": {
+                    "isVisible": false
+                }
             }
         },
         "flxFlow": {
