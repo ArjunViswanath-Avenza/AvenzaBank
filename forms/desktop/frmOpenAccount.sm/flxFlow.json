@@ -51,6 +51,16 @@
     "parent": "flxParent",
     "pf": "frmOpenAccount",
     "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "108dp"
+            }
+        },
         "b3": {
             "top": {
                 "type": "string",
