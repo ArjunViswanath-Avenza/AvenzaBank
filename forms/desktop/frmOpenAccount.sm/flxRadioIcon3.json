@@ -50,11 +50,18 @@
     "parent": "flxSavingsAccount",
     "pf": "frmOpenAccount",
     "responsiveData": {
+        "b1": {
+            "skin": "s0408e2a402741c3926ac70df4f37f2b"
+        },
+        "b2": {
+            "skin": "s0408e2a402741c3926ac70df4f37f2b"
+        },
         "b3": {
             "left": {
                 "type": "string",
                 "value": "5%"
-            }
+            },
+            "skin": "s0408e2a402741c3926ac70df4f37f2b"
         }
     },
     "retaincontentalignment": false,

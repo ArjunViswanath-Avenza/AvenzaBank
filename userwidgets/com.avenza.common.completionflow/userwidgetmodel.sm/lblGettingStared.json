@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "330dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Getting started",
     "_top_": {
         "type": "string",
-        "value": "15dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -57,8 +57,13 @@
     "isvisible": true,
     "kuid": "ifdbf0fb686c4e6381d9135d68dc4ea7",
     "name": "kony.ui.Label",
-    "parent": "flxFlow",
+    "parent": "flxTitle",
     "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b2": {
+            "skin": "sa672bb78ac248f5a18a75c81ca5cd5c"
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

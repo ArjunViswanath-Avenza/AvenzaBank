@@ -33,6 +33,10 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
     "children": [
         "imgArrow"
     ],
@@ -56,17 +60,21 @@
             "isVisible": false
         },
         "b3": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
             "height": {
                 "type": "string",
                 "value": "20dp"
             },
             "left": {
                 "type": "string",
-                "value": "5%"
+                "value": "3%"
             },
             "top": {
                 "type": "string",
-                "value": "25%"
+                "value": "19%"
             },
             "width": {
                 "type": "string",
